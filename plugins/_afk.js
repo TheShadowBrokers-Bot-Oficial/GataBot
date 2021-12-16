@@ -3,7 +3,7 @@ handler.before = m => {
   let user = global.DATABASE.data.users[m.sender]
   if (user.afk > -1) {
     m.reply(`
-Para AFK${user.afkReason ? ' después ' + user.afkReason : ''}
+De AFK${user.afkReason ? ' después ' + user.afkReason : ''}
 Durante ${clockString(new Date - user.afk)}
 `.trim())
     user.afk = -1
