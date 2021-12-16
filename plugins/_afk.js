@@ -4,7 +4,7 @@ handler.before = m => {
   if (user.afk > -1) {
     m.reply(`
 Su AFK${user.afkReason ? ' Finalizó ' + user.afkReason : ''}
-Regresó al grupo después de: ${clockString(new Date - user.afk)}
+Regresó al grupo. *Después de:* ${clockString(new Date - user.afk)}
 `.trim())
     user.afk = -1
     user.afkReason = ''
@@ -17,9 +17,9 @@ Regresó al grupo después de: ${clockString(new Date - user.afk)}
     if (!afkTime || afkTime < 0) continue
     let reason = user.afkReason || ''
     m.reply(`
-*¡No lo etiquetes!*
-El esta en AFK (Lejos del teclado) ${reason ? ' razón: ' + reason : 'Sin razón'}
-Sigue ausente. Durante: ${clockString(new Date - afkTime)}
+*¡No lo/a etiquetes!*
+Se encuentra en AFK (Lejos del teclado). ${reason ? ' *Razón:* ' + reason : 'Sin razón'}
+Sigue ausente. *Durante:* ${clockString(new Date - afkTime)}
 `.trim())
   }
   return true
