@@ -1,9 +1,9 @@
-global.DeveloperMode = 'false' //true Or false
+global.DeveloperMode = 'false' //verdadero o falso
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
 global.Owner = {
-  // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '593993684821': { // put your number here
-    name: 'Owner Metro Bot/Creator games-wabot',
+  // utilice el número de teléfono con el código del país, por ejemplo, Ecuador '593' América '1', Mexico '52' etc.
+  '593993684821': { // pon tu numero aqui
+    name: 'Owner Metro Bot/Creator GataBot',
     isDev: false, // si es cierto, este número se enviará si el bot tiene error y el modo de desarrollador es verdadero
     isReport: false, // si es verdadero, este número se enviará si el usuario usa el comando / informe o / unirse
     isCreator: true // si es verdadero, este número se enviará si el usuario usa el comando / propietario o / creador
