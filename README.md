@@ -28,7 +28,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install bash && pkg install wget
-wget -O - https://raw.githubusercontent.com/BochilGaming/games-wabot/main/install2.sh | bash
+wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot/main/install2.sh | bash
 ```
 
 ---------
@@ -179,7 +179,7 @@ Presence avaible: available, composing, recording, paused
 ### want to use multi-device (md)?
 now games-wabot already support MD, but of course there are still many **bugs** and there are still many that have not been **implemented**,
 
-use this [branch](https://github.com/BochilGaming/games-wabot/tree/multi-device) if you want to use MD!
+use this [branch](https://github.com/GataNina-Li/GataBot/tree/multi-device) if you want to use MD!
 
 ---------
 
