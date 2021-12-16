@@ -19,9 +19,9 @@ module.exports = {
             let _prefix = plugin.customPrefix ? plugin.customPrefix : this.prefix ? this.prefix : global.prefix
             let match = (_prefix instanceof RegExp ? // RegExp Mode?
                 [[_prefix.exec(id), _prefix]] :
-                Array.isArray(_prefix) ? // Array?
+                Array.isArray(_prefix) ? // Matrices?
                 _prefix.map(p => {
-                    let re = p instanceof RegExp ? // RegExp in Array?
+                    let re = p instanceof RegExp ? // ¿RegExp en matrices?
                     p :
                     new RegExp(str2Regex(p))
                     return [re.exec(id), re]
