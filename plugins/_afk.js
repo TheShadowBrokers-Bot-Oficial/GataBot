@@ -18,8 +18,7 @@ Regresó al grupo. *Después de:* ${clockString(new Date - user.afk)}
     let reason = user.afkReason || ''
     m.reply(`
 *¡No lo/a etiquetes!*
-Se encuentra en AFK (Lejos del teclado). ${reason ?\n\n 
-            ' *Razón:* ' + reason : ' *Sin razón* '}
+Está en AFK (Lejos del teclado). ${reason ? ' *Razón:* ' + reason : ' *Sin razón* '}
 Sigue ausente. *Durante:* ${clockString(new Date - afkTime)}
 `.trim())
   }
