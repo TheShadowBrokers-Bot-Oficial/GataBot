@@ -17,9 +17,9 @@ Durante ${clockString(new Date - user.afk)}
     if (!afkTime || afkTime < 0) continue
     let reason = user.afkReason || ''
     m.reply(`
-¡No lo etiquetes!
-El esta en AFK ${reason ? 'con razón ' + reason : 'Sin razón'}
-Durante ${clockString(new Date - afkTime)}
+*¡No lo etiquetes!*
+El esta en AFK (Lejos del teclado) ${reason ? 'por razón: ' + reason : 'Sin razón'}
+Durante: ${clockString(new Date - afkTime)}
 `.trim())
   }
   return true
