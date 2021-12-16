@@ -3,7 +3,7 @@ handler.before = m => {
   let user = global.DATABASE.data.users[m.sender]
   if (user.afk > -1) {
     m.reply(`
-Su AFK${user.afkReason ? ' Finalizó: ' + user.afkReason : ''}
+Su AFK${user.afkReason ? ' *Finalizó:* ' + user.afkReason : ''}
 Regresó al grupo. *Después de:* ${clockString(new Date - user.afk)}
 `.trim())
     user.afk = -1
@@ -18,7 +18,7 @@ Regresó al grupo. *Después de:* ${clockString(new Date - user.afk)}
     let reason = user.afkReason || ''
     m.reply(`
 *¡No lo/a etiquetes!*
-Está en *AFK* (Lejos del teclado). ${reason ?\n\n' *Razón:* ' + reason : ' *Sin razón* '}
+Está en AFK (Lejos del teclado). ${reason ?\n\n' *Razón:* ' + reason : ' *Sin razón* '}
 Sigue ausente. *Durante:* ${clockString(new Date - afkTime)}
 `.trim())
   }
