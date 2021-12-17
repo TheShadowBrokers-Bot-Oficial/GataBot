@@ -1,6 +1,6 @@
 let handler = m => m
 
-let linkRegex = /(ton(to|ta(([mala])baboso|sa|feo([estupido]da)dos)das)|ba?bo?sa|ko?nto?l|ba?bi|fu?ck|ta(e|i)k|bangsat|g([iueo])bl([iueo])(k|g)|g ([iueo]) b l ([iueo]) (k|g)|a (n j (i n g|i r)?)s u|col(i|ay)|an?jg|b([ia])ngs([ia])?t|t([iuo])l([iuo])l)/i
+let linkRegex = /|to?nta|ma?lo|ma?la|/
 handler.before = function (m, { user }) {
   if (m.isBaileys && m.fromMe) return true
   if (/masuk|lanjutkan|banjir|(per)?panjang/g.exec(m.text)) return true
