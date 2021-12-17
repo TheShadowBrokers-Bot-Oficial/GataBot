@@ -56,7 +56,7 @@ global.APIKeys = { // APIKey Here
 global.packname = 'wa.me/6285713964963'
 global.author = 'Metro Bot Is The Best'
 
-global.multiplier = 39 // Cuanto más alto, más difícil sube de nivel
+global.multiplier = -39 // Cuanto más alto, más difícil sube de nivel
 
 let fs = require('fs')
 let chalk = require('chalk')
