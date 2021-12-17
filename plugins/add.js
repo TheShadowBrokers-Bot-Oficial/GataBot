@@ -18,7 +18,7 @@ let handler = async (m, { conn, text, participants }) => {
       invite_code,
       invite_code_exp
     }]] = Object.entries(user)
-    let teks = `Atractivo @${jid.split('@')[0]} usando invitaciones ...`
+    let teks = `Se esta invitando a @${jid.split('@')[0]} usando invitación ...`
     m.reply(teks, null, {
       contextInfo: {
         mentionedJid: conn.parseMention(teks)
