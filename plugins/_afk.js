@@ -20,7 +20,7 @@ handler.before = m => {
 *¡No lo/a etiquetes!*
 _😺 Se encuentra en AFK (Lejos del teclado)._
 
-${reason ? ' *Razón:* ' + reason : ' *Sin razón* '}
+👉🏻${reason ? ' *Razón:* ' + reason : ' *Sin razón* '}
 *Sigue ausente ✅*
 *Tiempo de ausencia:* ${clockString(new Date - afkTime)}
 `.trim())
