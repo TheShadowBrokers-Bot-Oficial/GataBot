@@ -1,10 +1,10 @@
 let handler = async (m, { command, usedPrefix, text }) => {
     let which = command.replace(/get/i, '')
-    if (!text) throw Usar *${usedPrefix}list${which}* ` para ver la lista `
+    if (!text) throw `Gunakan *${usedPrefix}list${which}* untuk melihat list nya`
     let msgs = global.DATABASE._data.msgs
-    if (!text in msgs) throw *"${text}"* ` no ha sido incluido en la lista de mensajes. 😐 `
+    if (!text in msgs) throw `'${text}' tidak terdaftar di list pesan`
     delete msgs[text]
-    m.reply( ` Eliminó con éxito el mensaje en la lista de mensajes con el nombre *$"{text}"*. `)
+    m.reply(`Berhasil menghapus pesan di list pesan dengan nama '${text}'`)
 }
 handler.help = ['vn', 'msg', 'video', 'gif', 'audio', 'img', 'sticker'].map(v => 'del' + v + ' <teks>')
 handler.tags = ['database']
