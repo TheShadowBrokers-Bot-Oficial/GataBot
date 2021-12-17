@@ -7,7 +7,7 @@ handler.before = function (m) {
     let isTie = !1
     let isSurrender = !1
     this.game = this.game ? this.game : {}
-    let room = Object.values(this.game).find(room => room.id.startsWith('tictactoe') && [room.game.playerX, room.game.playerO].includes(m.sender) && room.state == 'PLAYING')
+    let room = Object.values(this.game).find(room => room.id.startsWith('tictactoe') && [room.game.playerX, room.game.playerO].includes(m.sender) && room.state == 'JUGANDO')
     if (room) {
         // m.reply(`[DEBUG]\n${parseInt(m.text)}`)
         if (!/^([1-9]|(me)?nyerah|surr?ender)$/i.test(m.text)) return !0
@@ -21,10 +21,10 @@ handler.before = function (m) {
         }))
         if (!isSurrender && 1 > (ok = room.game.turn(m.sender === room.game.playerO, parseInt(m.text) - 1))) {
             m.reply({
-                '-3': 'Game telah berakhir',
-                '-2': 'Invalid',
-                '-1': 'Posisi Invalid',
-                0: 'Posisi Invalid',
+                '-3': 'El juego ha terminado',
+                '-2': 'Inválido',
+                '-1': 'Posición inválida',
+                0: 'Posición inválida',
             }[ok])
             return !0
         }
@@ -55,8 +55,8 @@ ${arr.slice(0, 3).join('')}
 ${arr.slice(3, 6).join('')}
 ${arr.slice(6).join('')}
 
-${isWin ? `@${(isSurrender ? room.game.currentTurn : room.game.winner).split('@')[0]} Menang!` : isTie ? 'Game berakhir' : `Menunggu @${room.game.currentTurn.split('@')[0]}`}
-Ketik *nyerah* untuk nyerah
+${isWin ? `@${(isSurrender ? room.game.currentTurn : room.game.winner).split('@')[0]} ¡Victoria!` : isTie ? 'Juego terminado' : `Esperar @${room.game.currentTurn.split('@')[0]}`}
+Escriba *renunciar* para rendirse
 `.trim()
         if ((room.game._currentTurn ^ isSurrender ? room.x : room.o) !== m.chat)
             room[room.game._currentTurn ^ isSurrender ? 'x' : 'o'] = m.chat
