@@ -4,8 +4,9 @@ handler.before = m => {
   if (user.afk > -1) {
     m.reply(`
 _😸 Regresó al grupo del AFK._
-${user.afkReason ? ' *Finalizó su razón:* ' + user.afkReason : ''}
-*Tiempo total de su ausencia:* ${clockString(new Date - user.afk)}
+${user.afkReason ? ' 👉 *Finalizó su razón:* ' + user.afkReason : ''}
+✅ *Ya no esta ausente*
+⌛️ *Tiempo total de su ausencia:* ${clockString(new Date - user.afk)}
 `.trim())
     user.afk = -1
     user.afkReason = ''
@@ -21,9 +22,9 @@ ${user.afkReason ? ' *Finalizó su razón:* ' + user.afkReason : ''}
 *¡No lo/a etiquetes!*
 _😺 Se encuentra en AFK (Lejos del teclado)._
 
-👉${reason ? ' *Razón:* ' + reason : ' *Sin razón* '}
-*Sigue ausente ✅*
-*Tiempo de ausencia:* ${clockString(new Date - afkTime)}
+👉 ${reason ? ' *Razón:* ' + reason : ' *Sin razón* '}
+☑️ *Sigue ausente*
+⏳ *Tiempo de ausencia:* ${clockString(new Date - afkTime)}
 `.trim())
   }
   return true
