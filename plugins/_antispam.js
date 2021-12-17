@@ -13,11 +13,11 @@ handler.all = async function (m) {
     } else try {
         this.spam[m.sender].spam += 1
         if (new Date - this.spam[m.sender].lastspam > 4000) {
-            if (this.spam[m.sender].spam > 6) {
+            if (this.spam[m.sender].spam > 8) {
                 this.spam[m.sender].spam = 0
                 this.spam[m.sender].lastspam = new Date * 1
                 //global.DATABASE._data.users[m.sender].Banneduser = true
-                m.reply('*Jangan Spam!!*')
+                m.reply(' *¡No envíes spam!* ')
             } else {
                 this.spam[m.sender].spam = 0
                 this.spam[m.sender].lastspam = new Date * 1
