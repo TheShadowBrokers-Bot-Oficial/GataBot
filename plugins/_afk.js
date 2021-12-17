@@ -18,8 +18,11 @@ handler.before = m => {
     let reason = user.afkReason || ''
     m.reply(`
 *¡No lo/a etiquetes!*
-😺 Se encuentra en AFK (Lejos del teclado). ${reason ? ' *Razón:* ' + reason : ' *Sin razón* '}
-Sigue ausente. *Durante:* ${clockString(new Date - afkTime)}
+_😺 Se encuentra en AFK (Lejos del teclado)._
+
+${reason ? ' *Razón:* ' + reason : ' *Sin razón* '}
+*Sigue ausente ✅*
+*Tiempo de ausencia:* ${clockString(new Date - afkTime)}
 `.trim())
   }
   return true
