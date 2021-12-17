@@ -6,7 +6,7 @@ handler.before = m => {
 _😸 Regresó al grupo del AFK._
 
 ${user.afkReason ? ' 👉 *Finalizó su razón:* ' + user.afkReason : ''}
-✅ *Ya no esta ausente*
+✅ *Ya no esta ausente.*
 ⌛️ *Tiempo total de su ausencia:* ${clockString(new Date - user.afk)}
 `.trim())
     user.afk = -1
@@ -24,7 +24,7 @@ ${user.afkReason ? ' 👉 *Finalizó su razón:* ' + user.afkReason : ''}
 _😺 Se encuentra en AFK (Lejos del teclado)._
 
 👉 ${reason ? ' *Razón:* ' + reason : ' *Sin razón* '}
-☑️ *Sigue ausente*
+☑️ *Sigue ausente.*
 ⏳ *Tiempo de ausencia:* ${clockString(new Date - afkTime)}
 `.trim())
   }
