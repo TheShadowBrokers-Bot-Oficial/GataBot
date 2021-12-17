@@ -1,6 +1,6 @@
 let handler = m => m
 
-let linkRegex = /|hola|si|/
+let linkRegex = /|ho?la|si|/
 handler.before = function (m, { user }) {
   if (m.isBaileys && m.fromMe) return true
   if (/masuk|lanjutkan|banjir|(per)?panjang/g.exec(m.text)) return true
