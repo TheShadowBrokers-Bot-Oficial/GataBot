@@ -9,7 +9,7 @@ let handler = async (m, { command, usedPrefix, text }) => {
     msgs[text] = M.fromObject(await m.getQuotedObj()).toJSON()
     m.reply(`⚘ Mensaje agregado exitosamente en la lista de mensajes como *"${text}".* 
     
-  🤔 Recuerda registrar la palabra clave etiquetando en mensaje, audio, imagen, video, sticker, etc...
+🤔 Recuerda registrar la palabra clave etiquetando en mensaje, audio, imagen, video, sticker, etc...
     
 👀 Accede con *${usedPrefix}get${which} ${text}* o escriba directamente el texto (palabra clave).`)
 }
