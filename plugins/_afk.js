@@ -4,6 +4,7 @@ handler.before = m => {
   if (user.afk > -1) {
     m.reply(`
 _😸 Regresó al grupo del AFK._
+
 ${user.afkReason ? ' 👉 *Finalizó su razón:* ' + user.afkReason : ''}
 ✅ *Ya no esta ausente*
 ⌛️ *Tiempo total de su ausencia:* ${clockString(new Date - user.afk)}
