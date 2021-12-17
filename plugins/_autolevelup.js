@@ -18,7 +18,7 @@ module.exports = {
       let name = this.getName(m.sender)
       let lvlnow = user.level
       let teks = `A salvo ${name}
-   Elevar al siguente nivel` // no se pueden agregar emoticonos al texto de la imagen
+Elevar al siguente nivel` // no se pueden agregar emoticonos al texto de la imagen
       let str = `
 ${teks} 
 
