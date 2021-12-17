@@ -21,18 +21,18 @@ module.exports = {
       let str = `
 ${teks} 
 
-• 🧬Level Sebelumnya : ${before}
-• 🧬Level Baru : ${lvlnow}
-• Pada Jam : ${time}
+• 🧬Niveles anteriores: ${before}
+• 🧬Nuevos niveles: ${lvlnow}
+• A que hora : ${time}
 
-*_Semakin sering berinteraksi dengan bot Semakin Tinggi level kamu_*
+*_Cuanto más interactúas con los bots, mayor es tu nivel._*
 `.trim()
       if (global.support.convert || global.support.magick || global.support.gm) {
         let fontLevel = 'src/level_c.otf'
         let fontTexts = 'src/texts.otf'
         let xtsx = 'src/lvlup_template.jpg'
         let bufs = []
-        let anotations = '+1385+260' // gapake else if kadang error
+        let anotations = '+1385+260' //no use más si, a veces error
         if (lvlnow > 2) anotations = '+1370+260'
         if (lvlnow > 10) anotations = '+1330+260'
         if (lvlnow > 50) anotations = '+1310+260'
