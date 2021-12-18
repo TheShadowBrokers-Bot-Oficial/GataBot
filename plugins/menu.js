@@ -23,7 +23,7 @@ let tags = {
   'absen': 'Absen',
   'quran': 'Al Qur\'an',
   'jadibot': 'Jadi Bot',
-  'owner': 'Owner',
+  'owner': 'OWNER',
   'host': 'Host',
   'advanced': 'Advanced',
   'info': 'Info',
