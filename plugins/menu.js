@@ -40,8 +40,8 @@ const defaultMenu = {
 │
 │ *Actividad:* %uptime (%muptime)
 │ *Database:* %rtotalreg of %totalreg
-│ *Github:*
-│ %github
+│ *Github:* 
+│  https://github.com/GataNina-Li/GataBot
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
@@ -146,7 +146,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     let pp = await conn.getProfilePicture(conn.user.jid).catch(_ => path.join(__dirname, '../src/avatar_contact.png'))
     conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m).catch(_ => conn.reply(m.chat, text.trim(), m))
   } catch (e) {
-    conn.reply(m.chat, 'Maaf, menu sedang error', m)
+    conn.reply(m.chat, 'Tengo un error en mí menu. Escribe al siguiente número diciendo que hay un error en el menu. Gracias Wa.me/994407312387', m)
     throw e
   }
 }
