@@ -34,13 +34,13 @@ const defaultMenu = {
 ╭─「 %me 」
 │ %ucapan, %name!
 │
-│ Tanggal: *%week %weton, %date*
-│ Tanggal Islam: *%dateIslamic*
-│ Waktu: *%time*
+│ *Fecha:* *%week %weton, %date*
+│ *Fecha islámica:* *%dateIslamic*
+│ *Hora:* *%time*
 │
-│ Uptime: *%uptime (%muptime)*
-│ Database: %rtotalreg of %totalreg
-│ Github:
+│ *Tiempo de actividad:* *%uptime (%muptime)*
+│ *Database:* %rtotalreg of %totalreg
+│ *Github:*
 │ %github
 ╰────
 %readmore`.trimStart(),
