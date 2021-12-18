@@ -7,7 +7,7 @@ let handler = async (m, { text }) => {
 `)
 }
 handler.help = ['afk [alasan]']
-handler.tags = ['main']
+handler.tags = ['menu principal']
 handler.command = /^afk$/i
 
 module.exports = handler
