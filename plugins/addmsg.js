@@ -15,6 +15,6 @@ let handler = async (m, { command, usedPrefix, text }) => {
 }
 handler.help = ['vn', 'mensaje', 'video', 'gif', 'audio', 'img', 'sticker'].map(v => 'add' + v + ' <texto>')
 handler.tags = ['database']
-handler.command = /^(\+|add)(vn|mensaje|video|audio|img|stic?ker|gif)$/
+handler.command = /^(\+|add)(vn|ms|video|audio|img|stic?ker|gif)$/
 
 module.exports = handler
