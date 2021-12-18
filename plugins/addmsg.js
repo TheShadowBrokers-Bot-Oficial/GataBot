@@ -13,8 +13,8 @@ let handler = async (m, { command, usedPrefix, text }) => {
     
 👀 Accede con *${usedPrefix}get${which} ${text}* o escriba directamente el texto (palabra clave).`)
 }
-handler.help = ['vn', 'msg', 'video', 'gif', 'audio', 'img', 'sticker'].map(v => 'add' + v + ' <teks>')
+handler.help = ['vn', 'mensaje', 'vídeo', 'gif', 'audio', 'img', 'sticker'].map(v => 'add' + v + ' <texto>')
 handler.tags = ['database']
-handler.command = /^(\+|add)(vn|msg|video|audio|img|stic?ker|gif)$/
+handler.command = /^(\+|add)(vn|mensaje|vídeo|audio|img|stic?ker|gif)$/
 
 module.exports = handler
