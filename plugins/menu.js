@@ -179,13 +179,13 @@ function clockString(ms) {
 function ucapan() {
   const time = (new Date().getUTCHours() + 7) % 24
   res = "Woi. Pagi"
-  if (time >= 4) {
+  if (time >= 6) {
     res = "Buenos días 🌅"
   }
-  if (time >= 12) {
+  if (time >= 13) {
     res = "Buenas tardes 🏙"
   }
-  if (time >= 15) {
+  if (time >= 16) {
     res = "Buenas tardes 🌆"
   }
   if (time >= 19) {
