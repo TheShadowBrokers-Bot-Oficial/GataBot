@@ -6,8 +6,8 @@ let handler = async (m, { text }) => {
 😹 *${conn.getName(m.sender)}* establecio un nuevo AFK${text ? ': ' + text : ''}
 `)
 }
-handler.help = ['afk [alasan]']
-handler.tags = ['menu principal']
+handler.help = ['afk [Escribe tú mensaje]']
+handler.tags = ['Solocitar inactividad']
 handler.command = /^afk$/i
 
 module.exports = handler
