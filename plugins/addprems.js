@@ -8,7 +8,7 @@ let who
   // if (participants.map(v=>v.jid).includes(global.conn.user.jid)) {
     global.DATABASE._data.chats[m.chat].premium = true
   var nomor = m.sender
-    m.reply(`*Hecho con éxito agregado Usuario✅*\n\n*Número: wa.me/${nomor.split("@s.whatsapp.net")[0]}\n*Expired:* 30Days\n*¡Gracias por la primera añadida!*`)
+    m.reply(`*Hecho con éxito agregado Usuario ✅*\n\n💠 *Número: wa.me/${nomor.split("@s.whatsapp.net")[0]}*\n💠 *Expiración:* 30 Días\n\n*¡Gracias por la añadida! 😳*`)
   // } else m.reply('Aquí hay un número de host ...')
 }
 handler.help = ['addprems <nomor>']
