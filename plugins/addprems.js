@@ -11,9 +11,9 @@ let who
     m.reply(`*Hecho con éxito. Usuario agregado ✅*\n\n💠 *Número: wa.me/${nomor.split("@s.whatsapp.net")[0]}*\n💠 *Expiración: 30 Días*\n\n*¡Gracias por la añadida! 😳*`)
   // } else m.reply('Aquí hay un número de host ...')
 }
-handler.help = ['addpremium < etiquetar número>']
+handler.help = ['addpremium < etiquetar número >']
 handler.tags = ['owner']
-handler.command = /^addprems$/i
+handler.command = /^addpremium$/i
 handler.rowner = true
 
 module.exports = handler
