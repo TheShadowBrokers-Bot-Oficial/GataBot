@@ -4,9 +4,9 @@ module.exports = {
         if (global.DATABASE._data.chats[m.chat].isBanned) return
         if (global.DATABASE._data.users[m.sender].banned) return
         if (m.isBaileys) return
-        let msgs = global.DATABASE._data.msgs
-        if (!(m.text in msgs)) return
-        let _m = conn.serializeM(JSON.parse(JSON.stringify(msgs[m.text]), (_, v) => {
+        let mensaje = global.DATABASE._data.memsaje
+        if (!(m.text in mensaje)) return
+        let _m = conn.serializeM(JSON.parse(JSON.stringify(mensaje[m.text]), (_, v) => {
             if (
                 v !== null &&
                 typeof v === 'object' &&
