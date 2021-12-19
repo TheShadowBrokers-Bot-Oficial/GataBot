@@ -22,7 +22,7 @@ ${translation_id}
 ${translation_en}
 `.trim())
     }
-    m.reply(contoh + data + anjuran)
+    m.reply(Ejemplo + data + anjuran)
 }
 handler.help = ['frase [escribe un número 1 - 99]']
 handler.tags = ['quran']
