@@ -452,38 +452,38 @@ global.asmaulhusna = [
     },
     {
         index: 61,
-        latin: "Al Mumiitu",
-        arabic: "اَلْمُمِيتُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mematikan",
-        translation_en: "The Bringer of Death, the Destroyer"
+        latin: "💐 *Autor:* *Camilo José Cela*",
+        arabic: "💐 *Frase:* _La Historia nos enseña dos cosas: que jamás los poderosos coincidieron con los mejores, y que jamás la política fue tejida por los políticos._",
+        translation_id: "💐 *Opinión:* Sobre la política y la hegemonía, del gran escritor Camilo José Cela.",
+        translation_en: "Poderosos que tal vez esten solos.",
     },
     {
         index: 62,
-        latin: "Al Hayyu",
-        arabic: "الْحَيُّ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Hidup",
-        translation_en: "The Ever Living"
+        latin: "💐 *Autor:* *José Ortega y Gasset*",
+        arabic: "💐 *Frase:* _Con la moral corregimos los errores de nuestros instintos, y con el amor los errores de nuestra moral._",
+        translation_id: "💐 *Opinión:* El ensayista español realiza una disquisición que cada uno debe interpretar.",
+        translation_en: "Aprender a equivocarse. Irónico.",
     },
     {
         index: 63,
-        latin: "Al Qayyuum",
-        arabic: "الْقَيُّومُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mandiri",
-        translation_en: "The Self Subsisting Sustainer of All"
+        latin: "💐 *Autor:* *Novalis*",
+        arabic: "💐 *Frase:* _Cuando veas un gigante, examina antes la posición del sol; no vaya a ser la sombra de un pigmeo._",
+        translation_id: "💐 *Opinión:* El engañarse ante su entorno.",
+        translation_en: "Nuestra percepción puede engañarnos, por tanto tómate tu tiempo para reflexionar sobre las pequeñas cosas de la vida.",
     },
     {
         index: 64,
-        latin: "Al Waajid",
-        arabic: "الْوَاجِدُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Penemu",
-        translation_en: "The Perceiver, the Finder, the Unfailing"
+        latin: "💐 *Autor:* *Platón*",
+        arabic: "💐 *Frase:* _La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos._",
+        translation_id: "💐 *Opinión:* Una reflexión del filósofo griego en que resalta el vicio de la avaricia.",
+        translation_en: "Avaricia abunda en las personas sin caminos.",
     },
     {
         index: 65,
-        latin: "Al Maajid",
-        arabic: "الْمَاجِدُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mulia",
-        translation_en: "The Illustrious, the Magnificent"
+        latin: "💐 *Autor:* *Ovidio*",
+        arabic: "💐 *Frase:* _No os entreguéis por demasiado a la ira; una ira prolongada engendra odio._",
+        translation_id: "💐 *Opinión:* La rabia puede traernos consecuencias nefastas en nuestra vida.",
+        translation_en: "No darle importancia al odio.",
     },
     {
         index: 66,
