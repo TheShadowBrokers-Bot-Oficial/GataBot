@@ -53,10 +53,10 @@ global.asmaulhusna = [
     },
     {
         index: 4,
-        latin: "Al Quddus",
-        arabic: "الْقُدُّوسُ",
-        translation_id: "Yang Memiliki Mutlak sifat Suci",
-        translation_en: "The Most Holy"
+        latin: "💐 *Autor:* *Anónimo*",
+        arabic: "💐 *Frase:* _Si quieres algo que nunca tuviste, debes hacer algo que nunca hiciste._",
+        translation_id: "💐 *Opinión:* Si haces siempre lo mismo, seguramente siempre tendrás las mismas consecuencias. ",
+        translation_en: "Si lo que quieres es tener nuevas experiencias, conocer a gente interesante o crecer en el trabajo, mejor que empieces a plantearte nuevas actividades y hagas cosas que habitualmente no haces."
     },
     {
         index: 5,
