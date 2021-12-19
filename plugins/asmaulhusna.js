@@ -15,10 +15,10 @@ let handler = async (m, { args, usedPrefix, command }) => {
         if (args[0] < 1 || args[0] > 99) throw `minimal 1 & maksimal 99!`
         let { index, latin, latin, translation_es, translation_es } = json.find(v => v.index == args[0].replace(/[^0-9]/g, ''))
         return m.reply(`No. ${index}
-${arabic}
 ${latin}
-${translation_id}
-${translation_en}
+${latin}
+${translation_es}
+${translation_es}
 `.trim())
     }
     m.reply(contoh + data + anjuran)
