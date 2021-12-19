@@ -57,7 +57,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     let package = JSON.parse(await fs.promises.readFile(path.join(__dirname, '../package.json')).catch(_ => '{}'))
     let name = conn.getName(m.sender)
     let d = new Date(new Date + 3600000)
-    let locale = 'id'
+    let locale = 'ec'
     // d.getTimeZoneOffset()
     // Offset -420 is 18.00
     // Offset    0 is  0.00
@@ -150,9 +150,9 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     throw e
   }
 }
-handler.help = ['menu', 'help', '?']
+handler.help = ['menu', 'ayuda', '?']
 handler.tags = ['main']
-handler.command = /^(menu|help|\?)$/i
+handler.command = /^(menu|ayuda|\?)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
@@ -179,13 +179,13 @@ function clockString(ms) {
 function ucapan() {
   const time = (new Date().getUTCHours() + 7) % 24
   res = "Woi. Pagi"
-  if (time >= 4) {
+  if (time >= 6) {
     res = "Buenos días 🌅"
   }
-  if (time >= 12) {
+  if (time >= 13) {
     res = "Buenas tardes 🏙"
   }
-  if (time >= 15) {
+  if (time >= 16) {
     res = "Buenas tardes 🌆"
   }
   if (time >= 19) {
