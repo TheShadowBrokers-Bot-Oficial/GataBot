@@ -172,73 +172,73 @@ global.asmaulhusna = [
     },
     {
         index: 21,
-        latin: "Al Baasith",
-        arabic: "الْبَاسِطُ",
-        translation_id: "Yang Memiliki Mutlak sifat YangMelapangkan (makhluknya)",
-        translation_en: "The Expander, the Munificent"
+        latin: "💐 *Autor:* *Confucio*",
+        arabic: "💐 *Frase:* _Aprender sin reflexionar es malgastar la energía._",
+        translation_id: "💐 *Opinión:* El sabio pensador chino Confucio, sobre la necesidad de llevar a cabo un estilo de aprendizaje basado en la reflexión.",
+        translation_en: "Saber no gastar el tiempo.",
     },
     {
         index: 22,
-        latin: "Al Khaafidh",
-        arabic: "الْخَافِضُ",
-        translation_id: "Yang Memiliki Mutlak sifat YangMerendahkan (makhluknya)",
-        translation_en: "The Abaser"
+        latin: "💐 *Autor:* *Maquiavelo*",
+        arabic: "💐 *Frase:* _Las personas ofenden antes a los que aman que a los que temen._",
+        translation_id: "💐 *Opinión:* Las personas que son obstinadas pueden causarnos cierto miedo, es por eso que vamos con pies de plomo a la hora de tratar con ellas.",
+        translation_en: "Tener cuidado con ese tipo de personas.",
     },
     {
         index: 23,
-        latin: "Ar Raafi’",
-        arabic: "الرَّافِعُ",
-        translation_id: "Yang Memiliki Mutlak sifat YangMeninggikan (makhluknya)",
-        translation_en: "The Exalter"
+        latin: "💐 *Autor:* *Francis Bacon*",
+        arabic: "💐 *Frase:* _La amistad duplica las alegrías y divide las angustias por la mitad._",
+        translation_id: "💐 *Opinión:* Una verdad innegable; la vida es menos cruda cuando la pasamos cerca de personas que nos quieren de forma genuina.",
+        translation_en: "La amistad puede ser buena dependiendo de las personas.",
     },
     {
         index: 24,
-        latin: "Al Mu’izz",
-        arabic: "الْمُعِزُّ",
-        translation_id: "Yang Memiliki Mutlak sifat YangMemuliakan (makhluknya)",
-        translation_en: "The Giver of Honor"
+        latin: "💐 *Autor:* *Friedrich Nietzsche*",
+        arabic: "💐 *Frase:* _Solamente aquel que construye el futuro tiene derecho a juzgar el pasado._",
+        translation_id: "💐 *Opinión:* Nietzsche nos dejó muchas citas célebres, como por ejemplo esta, que nos indica la relevancia de tomar el control de nuestras vidas.",
+        translation_en: "Recuerda tomar Agua. 👀",
     },
     {
         index: 25,
-        latin: "Al Mudzil",
-        arabic: "المُذِلُّ",
-        translation_id: "Yang Memiliki Mutlak sifatYang Menghinakan (makhluknya)",
-        translation_en: "The Giver of Dishonor"
+        latin: "💐 *Autor:* *Johann Kaspar Lavater*",
+        arabic: "💐 *Frase:* _Si quieres ser sabio, aprende a interrogar razonablemente, a escuchar con atención, a responder serenamente y a callar cuando no tengas nada que decir._",
+        translation_id: "💐 *Opinión:* Unos consejos prácticos para alcanzar altas cotas de inteligencia y sabiduría.",
+        translation_en: "Consejos que salvan vidas.",
     },
     {
         index: 26,
-        latin: "Al Samii’",
-        arabic: "السَّمِيعُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mendengar",
-        translation_en: "The All Hearing"
+        latin: "💐 *Autor:* *Jorge Luis Borges*",
+        arabic: "💐 *Frase:* _He cometido el peor pecado que uno puede cometer. No he sido feliz._",
+        translation_id: "💐 *Opinión:* Borges nos dejó esta reflexión, que demuestra que no estuvo suficientemente atento a gozar de la vida.",
+        translation_en: "Consejos que salvan vidas.",
     },
     {
         index: 27,
-        latin: "Al Bashiir",
-        arabic: "الْبَصِيرُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Melihat",
-        translation_en: "The All Seeing"
+        latin: "💐 *Autor:* *Platón*",
+        arabic: "💐 *Frase:* _La libertad está en ser dueños de nuestra propia vida._",
+        translation_id: "💐 *Opinión:* La libertad es uno de los conceptos más ampliamente estudiados por los filósofos.",
+        translation_en: "Aquí, Platón nos explica cuál es la clave para ser libre.",
     },
     {
         index: 28,
-        latin: "Al Hakam",
-        arabic: "الْحَكَمُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Menetapkan",
-        translation_en: "The Judge, the Arbitrator"
+        latin: "💐 *Autor:* *René Descartes*",
+        arabic: "💐 *Frase:* _Daría todo lo que sé, por la mitad de lo que ignoro._",
+        translation_id: "💐 *Opinión:* El francés René Descartes también era totalmente consciente de que, a pesar de ser uno de los más brillantes pensadores modernos, ignoraba mucho más de lo que conocía.",
+        translation_en: "Ignorar las cosas, no es bueno.",
     },
     {
         index: 29,
-        latin: "Al ‘Adl",
-        arabic: "الْعَدْلُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Adil",
-        translation_en: "The Utterly Just"
+        latin: "💐 *Autor:* *Baltasar Gracián*",
+        arabic: "💐 *Frase:* _Saber y saberlo demostrar es valer dos veces._",
+        translation_id: "💐 *Opinión:* Una de las diferencias entre el conocimiento superficial y el conocimiento profundo, según Baltasar Gracián.",
+        translation_en: "Poner en práctica lo que sabes.",
     },
     {
         index: 30,
-        latin: "Al Lathiif",
-        arabic: "اللَّطِيفُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Lembut",
-        translation_en: "The Subtly Kind"
+        latin: "💐 *Autor:* *Lao-tsé*",
+        arabic: "💐 *Frase:* _Saber que no se sabe, eso es humildad. Pensar que uno sabe lo que no sabe, eso es enfermedad._",
+        translation_id: "💐 *Opinión:* Lao-tsé ahonda en el asunto de la ignorancia y la percepción de sabiduría, en la línea de otros pensadores que pronunciaron frases similares.",
+        translation_en: "No ser ignorante.",
     },
     {
         index: 31,
