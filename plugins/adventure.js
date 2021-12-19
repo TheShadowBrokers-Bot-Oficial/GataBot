@@ -70,7 +70,7 @@ Nyawa mu berkurang -${healt * 1} karena Kamu telah berpetualang sampai ${pickRan
 }
 handler.help = ['tienda', 'aventura', 'aventuras', 'travesia', 'explorar']
 handler.tags = ['rpg']
-handler.command = /^(aventura|(aventuras)?tienda(das)?|travesia|explorar)$/i
+handler.command = /^(aventura|aventuras|tienda|tiendas|travesia|explorar)$/i
 
 handler.fail = null
 
