@@ -32,9 +32,9 @@ global.asmaulhusna = [
     {
         index: 1,
         latin: "*John Maxwell*",
-        "_En la vida algunas veces se gana, otras veces se aprende._",
+        latin:"_En la vida algunas veces se gana, otras veces se aprende._",
         
-        "Esta frase que puede ser dicha por cualquier padre, abuelo o amigo, y nos hace ver las derrotas desde una perspectiva positiva. Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas."
+        latin:"Esta frase que puede ser dicha por cualquier padre, abuelo o amigo, y nos hace ver las derrotas desde una perspectiva positiva. Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas."
     },
     {
         index: 2,
