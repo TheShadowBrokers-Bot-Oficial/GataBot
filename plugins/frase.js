@@ -46,10 +46,10 @@ global.asmaulhusna = [
     },
     {
         index: 3,
-        latin: "Al Malik",
-        arabic: "الْمَلِكُ",
-        translation_id: "Yang Memiliki Mutlak sifat Merajai/Memerintah",
-        translation_en: "The King, The Sovereign"
+        latin: "💐 *Autor:* *Anónimo*",
+        arabic: "💐 *Frase:* _Pedir perdón es de inteligentes, perdonar es de nobles y perdonarse es de sabios._",
+        translation_id: "💐 *Opinión:* El perdón es una de las mejores terapias emocionales. Si pides perdón y si perdonas, demuestra tu grandeza como individuo. Pero más grande eres, y mejor vas a estar emocionalmente, si también te perdonas a ti mismo. Algo que parece fácil en la teoría, pero que se vuelve complicado en la práctica.",
+        translation_en: "Si te identificas con esta frase porque te cuesta perdonarte a ti mismo, el Mindfulness te puede ser de gran utilidad. También existe una filosofía hawaiana llamada Ho'oponopono que basa su efectividad en el perdón espiritual."
     },
     {
         index: 4,
