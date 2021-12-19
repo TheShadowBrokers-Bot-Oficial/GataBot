@@ -60,10 +60,10 @@ global.asmaulhusna = [
     },
     {
         index: 5,
-        latin: "As Salaam",
-        arabic: "السَّلاَمُ",
-        translation_id: "Yang Memiliki Mutlak sifat Memberi Kesejahteraan",
-        translation_en: "Peace and Blessing"
+        latin: "💐 *Autor:* *Proverbio turco*",
+        arabic: "💐 *Frase:* _El que busca un amigo sin defectos se queda sin amigos._",
+        translation_id: "💐 *Opinión:* La intención esta frase es hacernos notar que todos tenemos defectos y cometemos muchos errores, no hay persona perfecta en este mundo. ",
+        translation_en: "Ser una persona demasiado perfeccionista provoca consecuencias negativas para uno mismo."
     },
     {
         index: 6,
