@@ -106,8 +106,6 @@ global.asmaulhusna = [
         arabic: "💐 *Frase:* _La ocasión hay que crearla, no esperar a que llegue._",
         translation_id: "💐 *Opinión:* Esta frase se refiere a que las oportunidades hay que buscarlas, no van a venir solas.",
         translation_en: "Es decir, si queremos algo, hay que luchar por ello. Un antídoto contra la Parálisis del análisis.",
-
- ",
     },
     {
         index: 12,
