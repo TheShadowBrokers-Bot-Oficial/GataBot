@@ -56,7 +56,7 @@ Nyawa mu berkurang -${healt * 1} karena Kamu telah berpetualang sampai ${pickRan
             global.DATABASE._data.users[m.sender].sampah += sampah * 1
             global.DATABASE._data.users[m.sender].lastadventure = new Date * 1
             } else conn.reply(m.chat, `Anda sudah berpetualang dan kelelahan, silahkan coba *${timers}* lagi`, m)
-        } else conn.reply(m.chat, 'Minimal 80 health untuk bisa berpetualang, beli nyawa dulu dengan ketik *' + usedPrefix + 'shop buy potion <jumlah>*\ndan ketik *' + usedPrefix + 'use potion <jumlah>*\n\n_Untuk mendapat money dan potion gratis ketik_ *' + usedPrefix + 'claim*', m)
+        } else conn.reply(m.chat, 'Mínimo 80 de salud para poder emprender una aventura, primero compra una vida escribiendo *' + usedPrefix + 'tienda comprar poción <cantidad> *\ny tipo*' + usedPrefix + 'usa la poción <cantidad> * \ n \ n_Para obtener dinero y pociones gratis tipo_ *' + usedPrefix + 'afirmar*', m)
     } catch (e) {
         console.log(e)
         conn.reply(m.chat, 'Error', m)
