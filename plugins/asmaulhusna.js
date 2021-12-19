@@ -23,7 +23,7 @@ ${translation_en}
 }
 handler.help = ['frase [escribe un número 1-99]']
 handler.tags = ['quran']
-handler.command = /^(frase(ses)?)$/i
+handler.command = /^(frase(s)?)$/i
 module.exports = handler
 
 global.asmaulhusna = [
