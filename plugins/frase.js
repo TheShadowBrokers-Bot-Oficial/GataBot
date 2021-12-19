@@ -305,38 +305,38 @@ global.asmaulhusna = [
     },
     {
         index: 40,
-        latin: "💐 *Autor:* *William Penn*",
+        latin: "💐 *Autor:* *Hannah Arendt*",
         arabic: "💐 *Frase:* _El tiempo es aquello que más queremos y también lo que peor utilizamos._",
-        translation_id: "💐 *Opinión:* Una paradoja planteada por el filósofo inglés William Penn. Para ser conscientes de que la vida está para saberla aprovechar al máximo.",
-        translation_en: "Si fuera posible cambiarlo, es probable el resultado de la paradoja del abuelo",
+        translation_id: "💐 *Opinión:* La filósofa Hannah Arendt, sobre el riesgo que conlleva la simple actividad de pensar.",
+        translation_en: "Pensar nos hace mas autosuficientes.",
     },
     {
         index: 41,
-        latin: "Al Jaliil",
-        arabic: "الْجَلِيلُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mulia",
-        translation_en: "The Majestic"
+        latin: "💐 *Autor:* *William Penn*",
+        arabic: "💐 *Frase:* _No hay pensamientos peligrosos; pensar es, en sí mismo, algo peligroso._",
+        translation_id: "💐 *Opinión:* Una paradoja planteada por el filósofo inglés William Penn. Para ser conscientes de que la vida está para saberla aprovechar al máximo.",
+        translation_en: "Si fuera posible cambiarlo, es probable el resultado de la paradoja del abuelo.",
     },
     {
         index: 42,
-        latin: "Al Kariim",
-        arabic: "الْكَرِيمُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Pemurah",
-        translation_en: "The Bountiful, the Generous"
+        latin: "💐 *Autor:* *David Ben-Gurión*",
+        arabic: "💐 *Frase:* _Alguien que no cree en los milagros no es realista._",
+        translation_id: "💐 *Opinión:* Acerca de las anomalías y hechos inexplicables contenidos en la realidad.",
+        translation_en: "Si nunca has estado enfrente de una anomalía, tal vez pienses que no existe.",
     },
     {
         index: 43,
-        latin: "Ar Raqiib",
-        arabic: "الرَّقِيبُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mengawasi",
-        translation_en: "The Watchful"
+        latin: "💐 *Autor:* *Francis Bacon*",
+        arabic: "💐 *Frase:* _La esperanza es un buen desayuno, pero una mala cena._",
+        translation_id: "💐 *Opinión:* La esperanza como algo que tiene doble filo. ",
+        translation_en: "Resulta positiva cuando todo un mundo de posibilidades se abre ante nosotros, pero no tanto cuando es el último recurso.",
     },
     {
         index: 44,
-        latin: "Al Mujiib",
-        arabic: "الْمُجِيبُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mengabulkan",
-        translation_en: "The Responsive, the Answerer"
+        latin: "💐 *Autor:* *Allan Bloom*",
+        arabic: "💐 *Frase:* _La educación es el movimiento de la oscuridad a la luz ._",
+        translation_id: "💐 *Opinión:* Una imagen potente para explica lo que es la educación. ",
+        translation_en: "Imagen que dependiendo de como lo imaginas puede tener la verdad sobre ti",
     },
     {
         index: 45,
