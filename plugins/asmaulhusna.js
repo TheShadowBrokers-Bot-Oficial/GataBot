@@ -29,10 +29,11 @@ module.exports = handler
 global.asmaulhusna = [
     {
         index: 1,
-        latin: "John Maxwell",
-        arabic: "En la vida algunas veces se gana, otras veces se aprende",
+        latin: "*John Maxwell*",
+        arabic: "_En la vida algunas veces se gana, otras veces se aprende._",
+        
         translation_id: "Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas.",
-        translation_en: "The All Beneficent"
+        translation_en: "En otras palabras, no importa cómo caes, sino cómo te levantas."
     },
     {
         index: 2,
