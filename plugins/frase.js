@@ -39,10 +39,10 @@ global.asmaulhusna = [
     },
     {
         index: 2,
-        latin: "Ar Rahiim",
-        arabic: "Esta frase que puede ser dicha por cualquier padre, abuelo o amigo, y nos hace ver las derrotas desde una perspectiva positiva.",
-        translation_id: "Yang Memiliki Mutlak sifat Penyayang",
-        translation_en: "The Most Merciful"
+        latin: "💐 *Autor:* *Paulo Coelho*",
+        arabic: "💐 *Frase:* _No midas tu riqueza por el dinero que tienes, mídela por aquellas cosas que tienes y que no cambiarías por dinero._",
+        translation_id: "💐 *Opinión:* En una sociedad materialista es fácil autoevaluarse en función de las posesiones que tenemos, y este tipo de valoraciones son muy negativas para la autoestima.",
+        translation_en: "Además, lo que realmente te hará feliz en el día a día, son esas pequeñas cosas y esos momentos agradables."
     },
     {
         index: 3,
