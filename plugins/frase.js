@@ -487,38 +487,38 @@ global.asmaulhusna = [
     },
     {
         index: 66,
-        latin: "Al Wahiid",
-        arabic: "الْواحِدُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Tunggal",
-        translation_en: "The One, The Unique, Manifestation of Unity"
+        latin: "💐 *Autor:* *Kant*",
+        arabic: "💐 *Frase:* _La educación es el desarrollo sobre la persona de toda la perfección de que su naturaleza es capaz._",
+        translation_id: "💐 *Opinión:* Para concluir la selección de frases, esta reflexión del filósofo alemán para evidenciar la importancia de la educación.",
+        translation_en: "La educación lo es todo.",
     },
     {
         index: 67,
-        latin: "Al ‘Ahad",
-        arabic: "اَلاَحَدُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Esa",
-        translation_en: "The One, the All Inclusive, the Indivisible"
+        latin: "💐 *Autor:* *Arturo Pérez-Reverte*",
+        arabic: "💐 *Frase:* _El problema de las palabras es que, una vez echadas, no pueden volverse solas a su dueño. De modo que a veces te las vuelven en la punta de un acero._",
+        translation_id: "💐 *Opinión:* El literato español, sobre la crueldad de lo dicho.",
+        translation_en: "Recuerda decir bien las cosas, sin arrepentimientos.",
     },
     {
         index: 68,
-        latin: "As Shamad",
-        arabic: "الصَّمَدُ",
-        translation_id: "Yang Memiliki Mutlak sifat MahaDibutuhkan, Tempat Meminta",
-        translation_en: "The Self Sufficient, the Impregnable,the Eternally Besought of All, the Everlasting"
+        latin: "💐 *Autor:* *Winston Churchill*",
+        arabic: "💐 *Frase:* _El esfuerzo constante – no la fuerza o la inteligencia – es la clave para liberar nuestro potencial._",
+        translation_id: "💐 *Opinión:* Mítica reflexión sobre la constancia y la perseverancia.",
+        translation_en: "Todo esfuerzo tiene su recompensa.",
     },
     {
         index: 69,
-        latin: "Al Qaadir",
-        arabic: "الْقَادِرُ",
-        translation_id: "Yang Memiliki Mutlak sifat MahaMenentukan, Maha Menyeimbangkan",
-        translation_en: "The All Able"
+        latin: "💐 *Autor:* *Ernesto Sábato*",
+        arabic: "💐 *Frase:* _Ser original es en cierto modo estar poniendo de manifiesto la mediocridad de los demás._",
+        translation_id: "💐 *Opinión:* Una de esas frases sabias no aptas para mentes cerradas.",
+        translation_en: "Hay que saber ser Original en base a ideas que existen con un estilo propio.",
     },
     {
         index: 70,
-        latin: "Al Muqtadir",
-        arabic: "الْمُقْتَدِرُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Berkuasa",
-        translation_en: "The All Determiner, the Dominant"
+        latin: "💐 *Autor:* *Mark Twain*",
+        arabic: "💐 *Frase:* _No hay nada tan grotesco o increíble que el ser humano medio no pueda creer ._",
+        translation_id: "💐 *Opinión:* La imaginación no tiene límites, para bien o para mal.",
+        translation_en: "Recuerda imaginar paera bien.",
     },
     {
         index: 71,
