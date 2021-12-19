@@ -12,7 +12,7 @@ let handler = async (m, { args, usedPrefix, command }) => {
     if (args[0]) {
         if (args[0] < 1 || args[0] > 99) throw `mínimo 1 y máximo 99!`
         let { index, latin, arabic, translation_id, translation_en } = json.find(v => v.index == args[0].replace(/[^0-9]/g, ''))
-        return m.reply(`No. ${index}
+        return m.reply(`🔢 *Número:* ${index}
 ${arabic}
 
 ${latin}
@@ -32,9 +32,9 @@ module.exports = handler
 global.asmaulhusna = [
     {
         index: 1,
-        latin: "*John Maxwell*",
-        arabic: "_En la vida algunas veces se gana, otras veces se aprende._",
-        translation_id: "Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas.",
+        latin: "💐 *Autor:* *John Maxwell*",
+        arabic: "💐 *Frase:* _En la vida algunas veces se gana, otras veces se aprende._",
+        translation_id: "💐 *Opinión:* Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas.",
         translation_en: "En otras palabras, no importa cómo caes, sino cómo te levantas."
     },
     {
