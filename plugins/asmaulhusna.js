@@ -30,8 +30,7 @@ global.asmaulhusna = [
     {
         index: 1,
         latin: "*John Maxwell*",
-        arabic: "_En la vida algunas veces se gana, otras veces se aprende._" \n\n,
-        
+        arabic: "_En la vida algunas veces se gana, otras veces se aprende._ \n\n",
         translation_id: "Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas.",
         translation_en: "En otras palabras, no importa cómo caes, sino cómo te levantas."
     },
