@@ -516,51 +516,51 @@ global.asmaulhusna = [
     {
         index: 70,
         latin: "💐 *Autor:* *Mark Twain*",
-        arabic: "💐 *Frase:* _No hay nada tan grotesco o increíble que el ser humano medio no pueda creer ._",
+        arabic: "💐 *Frase:* _No hay nada tan grotesco o increíble que el ser humano medio no pueda creer._",
         translation_id: "💐 *Opinión:* La imaginación no tiene límites, para bien o para mal.",
         translation_en: "Recuerda imaginar paera bien.",
     },
     {
         index: 71,
-        latin: "Al Muqaddim",
-        arabic: "الْمُقَدِّمُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mendahulukan",
-        translation_en: "The Expediter, He who brings forward"
+        latin: "💐 *Autor:* *Napoleón*",
+        arabic: "💐 *Frase:* _Nunca interrumpas a tu enemigo cuanto está cometiendo una equivocación._",
+        translation_id: "💐 *Opinión:* Un consejo táctico de este famoso militar.",
+        translation_en: "Recuerda siempre tener ventajas.",
     },
     {
         index: 72,
-        latin: "Al Mu’akkhir",
-        arabic: "الْمُؤَخِّرُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mengakhirkan",
-        translation_en: "The Delayer, He who puts far away"
+        latin: "💐 *Autor:* *Lao-Tsé*",
+        arabic: "💐 *Frase:* _Conocer a los demás es sabiduría; conocerse a uno mismo es iluminación._",
+        translation_id: "💐 *Opinión:* El auto-conocimiento como aspecto fundamental de la vida.",
+        translation_en: "Hay que tener iniciativa para aprender en el camino por cuenta propia.",
     },
     {
         index: 73,
-        latin: "Al Awwal",
-        arabic: "الأوَّلُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Awal",
-        translation_en: "The First"
+        latin: "💐 *Autor:* *Charles Bukowski*",
+        arabic: "💐 *Frase:* _Estamos aquí para vivir nuestras vidas tan bien que la Muerte tiemble al arrebatárnoslas._",
+        translation_id: "💐 *Opinión:* Una credencia del vitalismo.",
+        translation_en: "Vive como si fuera el último día.",
     },
     {
         index: 74,
-        latin: "Al Aakhir",
-        arabic: "الآخِرُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Akhir",
-        translation_en: "The Last"
+        latin: "💐 *Autor:* *B.F. Skinner*",
+        arabic: "💐 *Frase:* _No deberíamos instruir en la lectura de libros, sino enseñar a amar los libros._",
+        translation_id: "💐 *Opinión:* Un aprendizaje de tipo emocional.",
+        translation_en: "Un mundo de letras...",
     },
     {
         index: 75,
-        latin: "Az Zhaahir",
-        arabic: "الظَّاهِرُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Nyata",
-        translation_en: "The Manifest; the All Victorious"
+        latin: "💐 *Autor:* *Martin Luther King*",
+        arabic: "💐 *Frase:* _Tu verdad aumentará en la medida que sepas escuchar la verdad de los otros._",
+        translation_id: "💐 *Opinión:* La sabiduría no está compuesta de descubrimientos realizados individualmente.",
+        translation_en: "Sino que incluye lo que aprendemos de los demás.",
     },
     {
         index: 76,
-        latin: "Al Baathin",
-        arabic: "الْبَاطِنُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Ghaib",
-        translation_en: "The Hidden; the All Encompassing"
+        latin: "💐 *Autor:* *Mario Benedetti*",
+        arabic: "💐 *Frase:* _No te rindas, porque cada día es un comienzo nuevo, porque esta es la hora y el mejor momento._",
+        translation_id: "💐 *Opinión:* Una manera de ver el ahora que además nos sirve como fuente de motivación..",
+        translation_en: "La paz se puede si todos están de acuerdo.",
     },
     {
         index: 77,
