@@ -14,14 +14,17 @@ let handler = async (m, { args, usedPrefix, command }) => {
         let { index, latin, arabic, translation_id, translation_en } = json.find(v => v.index == args[0].replace(/[^0-9]/g, ''))
         return m.reply(`No. ${index}
 ${arabic}
+
 ${latin}
+
 ${translation_id}
+
 ${translation_en}
 `.trim())
     }
     m.reply(contoh + data + anjuran)
 }
-handler.help = ['frase [escribe un número 1-99]']
+handler.help = ['frase [escribe un número 1 - 99]']
 handler.tags = ['quran']
 handler.command = /^(frase(s)?)$/i
 module.exports = handler
