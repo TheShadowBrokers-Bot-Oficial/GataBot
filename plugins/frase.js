@@ -67,38 +67,38 @@ global.asmaulhusna = [
     },
     {
         index: 6,
-        latin: "Al Mu’min",
-        arabic: "الْمُؤْمِنُ",
-        translation_id: "Yang Memiliki Mutlak sifat Memberi Keamanan",
-        translation_en: "The Guarantor"
+        latin: "💐 *Autor:* *Proverbio escocés*",
+        arabic: "💐 *Frase:* _La sonrisa cuesta menos que la electricidad y da más luz._",
+        translation_id: "💐 *Opinión:* Esta frase es una de esas frases inspiradoras, pero también es una frase sabia. Sonreír ayuda a mantener el buen humor, embellece el rostro y despierta buenos pensamientos.  ",
+        translation_en: "No es lo mismo pedirle algo a alguien fríamente, que pedirlo con una sonrisa, pues la sonrisa no solamente produce un efecto muy positivo en nosotros mismos, también en la otra persona."
     },
     {
         index: 7,
-        latin: "Al Muhaimin",
-        arabic: "الْمُهَيْمِنُ",
-        translation_id: "Yang Memiliki Mutlak sifat Pemelihara",
-        translation_en: "The Guardian, the Preserver"
+        latin: "💐 *Autor:* *Henry Ford*",
+        arabic: "💐 *Frase:* _No encuentres la falta, encuentra el remedio._",
+        translation_id: "💐 *Opinión:* Esta frase me recuerda a una que un buen amigo siempre me decía: “ Si no formas parte de la solución, pasas a formar parte del problema.",
+        translation_en: "Ambas frases no nos quieren decir que no debemos buscar el origen del problema, pues es necesario hacerlo. Pero en lugar de quedarnos lamentando la falla de manera eterna, debemos solucionar lo antes posible lo que ha ocurrido mal. Esta es la clave para mejorar.",
     },
     {
         index: 8,
-        latin: "Al ‘Aziiz",
-        arabic: "الْعَزِيزُ",
-        translation_id: "Yang Memiliki Mutlak Kegagahan",
-        translation_en: "The Almighty, the Self Sufficient"
+        latin: "💐 *Autor:* *William George Ward*",
+        arabic: "💐 *Frase:* _El pesimista se queja del viento; el optimista espera que cambie; el realista ajusta las velas._",
+        translation_id: "💐 *Opinión:* Tanto ser un pesimista como demasiado optimista puede traer consecuencias negativas para uno mismo.",
+        translation_en: "El pesimista todo lo va a ver mal y no existirá nada para que ese mal cambie. El optimista todo lo va a ver bien y distorsiona la realidad para que encaje con sus pensamientos. En cambio, una persona realista trata de solucionar los problemas pese a saber que es complicado en muchas ocasiones. Es decir, mantiene los pies en el suelo y actúa de manera sensata.",
     },
     {
         index: 9,
-        latin: "Al Jabbar",
-        arabic: "الْجَبَّارُ",
-        translation_id: "Yang Memiliki Mutlak sifat Perkasa",
-        translation_en: "The Powerful, the Irresistible"
+        latin: "💐 *Autor:* *Madre Teresa de Calcuta*",
+        arabic: "💐 *Frase:* _A veces sentimos que lo que hacemos es tan solo una gota en el mar, pero el mar sería mucho menos si le faltara una gota._",
+        translation_id: "💐 *Opinión:* Significa que aunque sintamos que lo que hacemos no sirve para nada, cada cosa que hacemos tiene una consecuencia.",
+        translation_en: "A veces no somos capaces de ver esa consecuencia inmediatamente, o a veces es solamente un paso más en un camino que estamos recorriendo. Se trata de ir construyendo y al final llegará la recompensa.",
     },
     {
         index: 10,
-        latin: "Al Mutakabbir",
-        arabic: "الْمُتَكَبِّرُ",
-        translation_id: "Yang Memiliki Mutlak sifat Megah,Yang Memiliki Kebesaran",
-        translation_en: "The Tremendous"
+        latin: "💐 *Autor:* *Madre Teresa de Calcuta*",
+        arabic: "💐 *Frase:* _A veces sentimos que lo que hacemos es tan solo una gota en el mar, pero el mar sería mucho menos si le faltara una gota._",
+        translation_id: "💐 *Opinión:* Significa que aunque sintamos que lo que hacemos no sirve para nada, cada cosa que hacemos tiene una consecuencia.",
+        translation_en: "A veces no somos capaces de ver esa consecuencia inmediatamente, o a veces es solamente un paso más en un camino que estamos recorriendo. Se trata de ir construyendo y al final llegará la recompensa.",
     },
     {
         index: 11,
