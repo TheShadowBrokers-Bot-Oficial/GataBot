@@ -210,7 +210,7 @@ global.asmaulhusna = [
         latin: "💐 *Autor:* *Jorge Luis Borges*",
         arabic: "💐 *Frase:* _He cometido el peor pecado que uno puede cometer. No he sido feliz._",
         translation_id: "💐 *Opinión:* Borges nos dejó esta reflexión, que demuestra que no estuvo suficientemente atento a gozar de la vida.",
-        translation_en: "Consejos que salvan vidas.",
+        translation_en: "Vivela, tal vez sea la ultima.",
     },
     {
         index: 27,
