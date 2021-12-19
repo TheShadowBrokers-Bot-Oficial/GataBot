@@ -3,7 +3,7 @@ let path = require('path')
 let levelling = require('../lib/levelling')
 let tags = {
   'main': 'Main',
-  'rpg': 'Epic RPG',
+  'rpg': 'EPIC RPG',
   'game': 'Game',
   'xp': 'Exp & Limit',
   'sticker': 'Sticker',
