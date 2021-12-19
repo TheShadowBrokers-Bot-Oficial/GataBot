@@ -445,10 +445,10 @@ global.asmaulhusna = [
     },
     {
         index: 60,
-        latin: "Al Muhyii",
-        arabic: "الْمُحْيِي",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Menghidupkan",
-        translation_en: "The Giver of Life"
+        latin: "💐 *Maquiavelo*",
+        arabic: "💐 *Frase:* _El que es elegido príncipe con el favor popular debe conservar al pueblo como amigo._",
+        translation_id: "💐 *Opinión:* Una reflexión de corte político según el mítico historiador italiano.",
+        translation_en: "Una frase un tanto medieval.",
     },
     {
         index: 61,
