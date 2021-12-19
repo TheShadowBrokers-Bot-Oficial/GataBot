@@ -95,17 +95,17 @@ global.asmaulhusna = [
     },
     {
         index: 10,
-        latin: "💐 *Autor:* *Madre Teresa de Calcuta*",
-        arabic: "💐 *Frase:* _A veces sentimos que lo que hacemos es tan solo una gota en el mar, pero el mar sería mucho menos si le faltara una gota._",
-        translation_id: "💐 *Opinión:* Significa que aunque sintamos que lo que hacemos no sirve para nada, cada cosa que hacemos tiene una consecuencia.",
-        translation_en: "A veces no somos capaces de ver esa consecuencia inmediatamente, o a veces es solamente un paso más en un camino que estamos recorriendo. Se trata de ir construyendo y al final llegará la recompensa.",
+        latin: "💐 *Autor:* *Buddha*",
+        arabic: "💐 *Frase:* _La reflexión es el camino hacia la inmortalidad; la falta de reflexión, el camino hacia la muerte._",
+        translation_id: "💐 *Opinión:* Esta frase extraída de la filosofía budista hace referencia a la importancia de la reflexión en el desarrollo personal y en el aprendizaje por y para la vida.",
+        translation_en: "Todos hemos aprendido de los errores, pero cada uno vive las experiencias de manera única. Para poder retener estas experiencias, es necesario un proceso de pensamiento activo sobre lo que vivimos, para, de esta manera, cuestionarnos el sentido que tienen estas experiencias para nosotros.",
     },
     {
         index: 11,
-        latin: "Al Khaliq",
-        arabic: "الْخَالِقُ",
-        translation_id: "Yang Memiliki Mutlak sifat Pencipta",
-        translation_en: "The Creator"
+        latin: "💐 *Autor:* *Francis Bacon*",
+        arabic: "💐 *Frase:* _La ocasión hay que crearla, no esperar a que llegue._",
+        translation_id: "💐 *Opinión:* Esta frase extraída de la filosofía budista hace referencia a la importancia de la reflexión en el desarrollo personal y en el aprendizaje por y para la vida.",
+        translation_en: "Todos hemos aprendido de los errores, pero cada uno vive las experiencias de manera única. Para poder retener estas experiencias, es necesario un proceso de pensamiento activo sobre lo que vivimos, para, de esta manera, cuestionarnos el sentido que tienen estas experiencias para nosotros. ",
     },
     {
         index: 12,
