@@ -1,24 +1,22 @@
 const contoh = `*Asmaul Husna*
-
 `
 // data here
 const anjuran = `
-
 Dari Abu hurarirah radhiallahu anhu, Rasulullah Saw bersabda: "إِنَّ لِلَّهِ تَعَالَى تِسْعَةً وَتِسْعِينَ اسْمًا، مِائَةٌ إِلَّا وَاحِدًا، مَنْ أَحْصَاهَا دخل الجنة، وهو وتر يُحِبُّ الْوِتْرَ"
 Artinya: "Sesungguhnya Allah mempunyai sembilan puluh sembilan nama, alias seratus kurang satu. Barang siapa yang menghitung-hitungnya, niscaya masuk surga; Dia Witir dan menyukai yang witir".`
 
 let handler = async (m, { args, usedPrefix, command }) => {
     let json = JSON.parse(JSON.stringify(global.asmaulhusna))
-    let data = json.map((v, i) => `${i + 1}. ${v.spanish}\n${v.spanish}\n${v.translation_es}`).join('\n\n')
+    let data = json.map((v, i) => `${i + 1}. ${v.latin}\n${v.arabic}\n${v.translation_id}`).join('\n\n')
     if (isNaN(args[0])) throw `contoh:\n${usedPrefix + command} 1`
     if (args[0]) {
         if (args[0] < 1 || args[0] > 99) throw `minimal 1 & maksimal 99!`
-        let { index, spanish, spanish, translation_es, translation_es } = json.find(v => v.index == args[0].replace(/[^0-9]/g, ''))
+        let { index, latin, arabic, translation_id, translation_en } = json.find(v => v.index == args[0].replace(/[^0-9]/g, ''))
         return m.reply(`No. ${index}
-${spanish}
-${spanish}
-${translation_es}
-${translation_es}
+${arabic}
+${latin}
+${translation_id}
+${translation_en}
 `.trim())
     }
     m.reply(contoh + data + anjuran)
@@ -31,15 +29,15 @@ module.exports = handler
 global.asmaulhusna = [
     {
         index: 1,
-        latin: "*John Maxwell*",
-        latin:"_En la vida algunas veces se gana, otras veces se aprende._",
-        
-        latin:"Esta frase que puede ser dicha por cualquier padre, abuelo o amigo, y nos hace ver las derrotas desde una perspectiva positiva. Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas."
+        latin: "John Maxwell",
+        arabic: "En la vida algunas veces se gana, otras veces se aprende",
+        translation_id: "Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas.",
+        translation_en: "The All Beneficent"
     },
     {
         index: 2,
         latin: "Ar Rahiim",
-        arabic: "الرَّحِيمُ",
+        arabic: "Esta frase que puede ser dicha por cualquier padre, abuelo o amigo, y nos hace ver las derrotas desde una perspectiva positiva.",
         translation_id: "Yang Memiliki Mutlak sifat Penyayang",
         translation_en: "The Most Merciful"
     },
