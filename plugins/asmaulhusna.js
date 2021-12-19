@@ -31,10 +31,10 @@ module.exports = handler
 global.asmaulhusna = [
     {
         index: 1,
-        latin: "Ar Rahman",
-        arabic: "الرَّحْمَنُ",
-        translation_id: "Yang Memiliki Mutlak sifat Pemurah",
-        translation_en: "The All Beneficent"
+        latin: "*John Maxwell*",
+        translation_es: "_En la vida algunas veces se gana, otras veces se aprende._",
+        
+        translation_es: "Esta frase que puede ser dicha por cualquier padre, abuelo o amigo, y nos hace ver las derrotas desde una perspectiva positiva. Hay que aprender de esos momentos desagradables, para de esta manera seguir creciendo como individuos. En otras palabras, no importa cómo caes, sino cómo te levantas."
     },
     {
         index: 2,
