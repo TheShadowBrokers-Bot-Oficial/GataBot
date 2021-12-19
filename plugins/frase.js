@@ -8,7 +8,7 @@ Artinya: "Sesungguhnya Allah mempunyai sembilan puluh sembilan nama, alias serat
 let handler = async (m, { args, usedPrefix, command }) => {
     let json = JSON.parse(JSON.stringify(global.asmaulhusna))
     let data = json.map((v, i) => `${i + 1}. ${v.latin}\n${v.arabic}\n${v.translation_id}`).join('\n\n')
-    if (isNaN(args[0])) throw `contoh:\n${usedPrefix + command} 1`
+    if (isNaN(args[0])) throw `Ejemplo:\n${usedPrefix + command} 1`
     if (args[0]) {
         if (args[0] < 1 || args[0] > 99) throw `mínimo 1 y máximo 99!`
         let { index, latin, arabic, translation_id, translation_en } = json.find(v => v.index == args[0].replace(/[^0-9]/g, ''))
@@ -22,7 +22,7 @@ ${translation_id}
 ${translation_en}
 `.trim())
     }
-    m.reply(Ejemplo + data + anjuran)
+    m.reply(contoh + data + anjuran)
 }
 handler.help = ['frase [escribe un número 1 - 99]']
 handler.tags = ['quran']
