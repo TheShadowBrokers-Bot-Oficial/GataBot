@@ -242,73 +242,73 @@ global.asmaulhusna = [
     },
     {
         index: 31,
-        latin: "Al Khabiir",
-        arabic: "الْخَبِيرُ",
-        translation_id: "Yang Memiliki Mutlak sifatMaha Mengetahui Rahasia",
-        translation_en: "The All Aware"
+        latin: "💐 *Autor:* *Epicteto de Frigia*",
+        arabic: "💐 *Frase:* _La persona sabia no debe abstenerse de participar en el gobierno del Estado, pues es un delito renunciar a ser útil a los necesitados y un cobardía ceder el paso a los indignos._",
+        translation_id: "💐 *Opinión:* Una reflexión de corte político; los ciudadanos sabios deben intentar participar en la gestión de la polis, para aportar su granito de arena a una administración que debe ser justa con todos.",
+        translation_en: "Recuerda tener tiempo para todo.",
     },
     {
         index: 32,
-        latin: "Al Haliim",
-        arabic: "الْحَلِيمُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Penyantun",
-        translation_en: "The Forbearing, the Indulgent"
+        latin: "💐 *Autor:* *Confucio*",
+        arabic: "💐 *Frase:* _La vida es muy simple, pero insistimos en hacerla complicada._",
+        translation_id: "💐 *Opinión:* El filósofo Confucio creía que la vida se rige por principios simples que debemos adoptar como normas para nuestro día a día.",
+        translation_en: "Es tan simple...",
     },
     {
         index: 33,
-        latin: "Al ‘Azhiim",
-        arabic: "الْعَظِيمُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Agung",
-        translation_en: "The Magnificent, the Infinite"
+        latin: "💐 *Autor:* *Abraham Lincoln*",
+        arabic: "💐 *Frase:* _Al final, no son los años en nuestra vida lo que cuenta, sino la vida en nuestros años._",
+        translation_id: "💐 *Opinión:* Lincoln, sobre el criterio de calidad que según él deberíamos aplicar a la hora de valorar nuestras vidas.",
+        translation_en: "Todos omiten el hecho que cada vez se acercan la muerte con el pasar del tiempo, pero si vives plenamente habrá valido la pena",
     },
     {
         index: 34,
-        latin: "Al Ghafuur",
-        arabic: "الْغَفُورُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Pengampun",
-        translation_en: "The All Forgiving"
+        latin: "💐 *Autor:* *Voltaire*",
+        arabic: "💐 *Frase:* _Cada persona es una criatura del tiempo en el que vive._",
+        translation_id: "💐 *Opinión:* Voltaire creía que no podemos considerarnos seres independizados del contexto histórico que nos toca vivir.",
+        translation_en: "Nuestras ideas y nuestro modo de vida están siempre condicionados por la fecha de nuestro nacimiento.",
     },
     {
         index: 35,
-        latin: "As Syakuur",
-        arabic: "الشَّكُورُ",
-        translation_id: "Yang Memiliki Mutlak sifat MahaPembalas Budi (Menghargai)",
-        translation_en: "The Grateful"
+        latin: "💐 *Autor:* *Aristóteles*",
+        arabic: "💐 *Frase:* _Somos lo que hacemos repetidamente._",
+        translation_id: "💐 *Opinión:* Aristóteles se distanció del idealismo de Platón; para él importaban más los hechos y el entorno, y esto queda claro en esta frase de la vida eminentemente filosófica.",
+        translation_en: "Repetir nos hace mejor.",
     },
     {
         index: 36,
-        latin: "Al ‘Aliy",
-        arabic: "الْعَلِيُّ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Tinggi",
-        translation_en: "The Sublimely Exalted"
+        latin: "💐 *Autor:* *Charlie Chaplin*",
+        arabic: "💐 *Frase:* _La vida es una tragedia cuando se ve en primer plano, pero en plano general pasa a ser una comedia._",
+        translation_id: "💐 *Opinión:* Chaplin, como director de cine, sabía que un mismo hecho, o incluso la vida de una persona, cambia dependiendo del modo en el que se presente.",
+        translation_en: "Malos y buenos momentos.",
     },
     {
         index: 37,
-        latin: "Al Kabiir",
-        arabic: "الْكَبِيرُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Besar",
-        translation_en: "The Great"
+        latin: "💐 *Autor:* *Albert Camus*",
+        arabic: "💐 *Frase:* _El hombre es la única criatura que se niega a ser quien es._",
+        translation_id: "💐 *Opinión:* Albert Camus, en una de sus frases filosóficas acerca de la lucha que el ser humano mantiene con la creación de un sentido para su existencia.",
+        translation_en: "Aprende aceptar lo que eres.",
     },
     {
         index: 38,
-        latin: "Al Hafizh",
-        arabic: "الْحَفِيظُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Menjaga",
-        translation_en: "The Preserver"
+        latin: "💐 *Autor:* *Cassandra Clare*",
+        arabic: "💐 *Frase:* _Todo conocimiento resulta hiriente._",
+        translation_id: "💐 *Opinión:* Una frase sabia referida al modo en el que cada nueva pieza de conocimiento trastoca los cimientos de lo que creíamos que sabíamos.",
+        translation_en: "Siempre hay algo por aprender",
     },
     {
         index: 39,
-        latin: "Al Muqiit",
-        arabic: "المُقيِت",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Pemberi Kecukupan",
-        translation_en: "The Nourisher"
+        latin: "💐 *Autor:* *Pablo Picasso*",
+        arabic: "💐 *Frase:* _Lleva mucho tiempo llegar a ser joven._",
+        translation_id: "💐 *Opinión:* El reputado pintor invierte el orden temporal en el que se ubica la juventud para dar a entender que es, más que una fase biológica, algo aprendido.",
+        translation_en: "Recuerda ser buena persona 😸",
     },
     {
         index: 40,
-        latin: "Al Hasiib",
-        arabic: "الْحسِيبُ",
-        translation_id: "Yang Memiliki Mutlak sifat MahaMembuat Perhitungan",
-        translation_en: "The Reckoner"
+        latin: "💐 *Autor:* *William Penn*",
+        arabic: "💐 *Frase:* _El tiempo es aquello que más queremos y también lo que peor utilizamos._",
+        translation_id: "💐 *Opinión:* Una paradoja planteada por el filósofo inglés William Penn. Para ser conscientes de que la vida está para saberla aprovechar al máximo.",
+        translation_en: "Si fuera posible cambiarlo, es probable el resultado de la paradoja del abuelo",
     },
     {
         index: 41,
