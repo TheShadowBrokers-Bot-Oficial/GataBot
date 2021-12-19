@@ -334,51 +334,51 @@ global.asmaulhusna = [
     {
         index: 44,
         latin: "💐 *Autor:* *Allan Bloom*",
-        arabic: "💐 *Frase:* _La educación es el movimiento de la oscuridad a la luz ._",
-        translation_id: "💐 *Opinión:* Una imagen potente para explica lo que es la educación. ",
+        arabic: "💐 *Frase:* _La educación es el movimiento de la oscuridad a la luz._",
+        translation_id: "💐 *Opinión:* Una imagen potente para explica lo que es la educación.",
         translation_en: "Imagen que dependiendo de como lo imaginas puede tener la verdad sobre ti",
     },
     {
         index: 45,
-        latin: "Al Waasi’",
-        arabic: "الْوَاسِعُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Luas",
-        translation_en: "The Vast, the All Encompassing"
+        latin: "💐 *Autor:* *Erich Fromm*",
+        arabic: "💐 *Frase:* _La creatividad requiere que la valentía se desprenda de las certezas._",
+        translation_id: "💐 *Opinión:* El padre del psicoanálisis humanista, sobre la relación entre la valentía y la incertidumbre.",
+        translation_en: "Ser valiente te hace creativo/a",
     },
     {
         index: 46,
-        latin: "Al Hakiim",
-        arabic: "الْحَكِيمُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maka Bijaksana",
-        translation_en: "The Wise"
+        latin: "💐 *Autor:* *Edmund Burke*",
+        arabic: "💐 *Frase:* _Aquellos que no conocen la historia están condenados a repetirla._",
+        translation_id: "💐 *Opinión:* El filósofo conservador Edmund Burke, sobre la necesidad de conocer el pasado.",
+        translation_en: "Conoce el Pasado, te ahorra tiempo a un Futuro.",
     },
     {
         index: 47,
-        latin: "Al Waduud",
-        arabic: "الْوَدُودُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Pencinta",
-        translation_en: "The Loving, the Kind One"
+        latin: "💐 *Autor:* *Cicerón*",
+        arabic: "💐 *Frase:* _Nada es tan increíble como para que la oratoria no lo pueda transformar en aceptable._",
+        translation_id: "💐 *Opinión:* Cicerón habla sobre el poder de los discursos bien diseñados.",
+        translation_en: "Un discurso puede convencer a muchos.",
     },
     {
         index: 48,
-        latin: "Al Majiid",
-        arabic: "الْمَجِيدُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mulia",
-        translation_en: "The All Glorious"
+        latin: "💐 *Autor:* *Dante*",
+        arabic: "💐 *Frase:* _De una pequeña chispa puede prender una llama._",
+        translation_id: "💐 *Opinión:* Una frase sabia en la que se entrevé, mediante una imagen poética.",
+        translation_en: "Modos insospechados en los que pueden aparecer fenómenos muy importantes y significativos.",
     },
     {
         index: 49,
-        latin: "Al Baa’its",
-        arabic: "الْبَاعِثُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Membangkitkan",
-        translation_en: "The Raiser of the Dead"
+        latin: "💐 *Autor:* *Dante*",
+        arabic: "💐 *Frase:* _El liderazgo no depende de estar en lo cierto._",
+        translation_id: "💐 *Opinión:* Uno de los pensadores sobre la educación más importantes habla aquí sobre el modo en el que tenemos que interpretar la legitimidad del liderazgo.",
+        translation_en: "Recuerda, si dices saberlo todo, eres un ignorante.",
     },
     {
         index: 50,
-        latin: "As Syahiid",
-        arabic: "الشَّهِيدُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Menyaksikan",
-        translation_en: "The Witness"
+        latin: "💐 *Autor:* *Dante*",
+        arabic: "💐 *Frase:* _El entorno da forma a las acciones del individuo._",
+        translation_id: "💐 *Opinión:* Una frase sabia en la que se entrevé, mediante una imagen poética.",
+        translation_en: "Modos insospechados en los que pueden aparecer fenómenos muy importantes y significativos.",
     },
     {
         index: 51,
