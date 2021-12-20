@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-!Hola¡ 😺 Bienvenido a este repositorio, Sería agradable una ⭐ de tú parte. ¡Gracias!
+!Hola¡ 😺 Bienvenido a este repositorio, Sería agradable una ⭐  de tú parte. ¡Gracias!
 </p>
 
 
