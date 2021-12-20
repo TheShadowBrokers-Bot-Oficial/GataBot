@@ -699,28 +699,28 @@ global.asmaulhusna = [
         index: 96,
         latin: "💐 *Autor:* *C.G. Jung*",
         arabic: "💐 *Frase:* _Tú eres aquello que haces, no aquello que dices que harás._",
-        translation_id: "💐 *Opinión:* Tus acciones determinan aquello que eres, no tus palabras..",
+        translation_id: "💐 *Opinión:* Tus acciones determinan aquello que eres, no tus palabras.",
         translation_en: "Si vas a decirlo demuestra que lo puedes cumplir.",
     },
     {
         index: 97,
-        latin: "💐 *Autor:* *C.G. Jung*",
-        arabic: "💐 *Frase:* _Tú eres aquello que haces, no aquello que dices que harás._",
-        translation_id: "💐 *Opinión:* Tus acciones determinan aquello que eres, no tus palabras..",
-        translation_en: "Si vas a decirlo demuestra que lo puedes cumplir.",
+        latin: "💐 *Charles Dickens*",
+        arabic: "💐 *Frase:* _El corazón humano es un instrumento de muchas cuerdas; el perfecto conocedor de personas, las sabe hacer vibrar todas, como un buen músico._",
+        translation_id: "💐 *Opinión:* La persona que se conoce es una persona poderosa.",
+        translation_en: "Siempre hay algo nuevo por conocer.",
     },
     {
         index: 98,
-        latin: "Ar Rasyiid",
-        arabic: "الرَّشِيدُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Pandai",
-        translation_en: "The Guide, Infallible Teacher, and Knower"
+        latin: "💐 *Solomon Asch*",
+        arabic: "💐 *Frase:* _La mayoría de actos sociales deben ser entendidos en su contexto, ya que pierden significado si son aislados._",
+        translation_id: "💐 *Opinión:* Las personas somos seres biopsicosociales.",
+        translation_en: "Es decir, el contexto es importante en influye en cómo actuamos.",
     },
     {
         index: 99,
-        latin: "As Shabuur",
-        arabic: "الصَّبُورُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Sabar",
-        translation_en: "The Patient"
+        latin: "💐 *Erich Fromm*",
+        arabic: "💐 *Frase:* _Si una persona ama solo a una persona y es indiferente ante todos los demás, su amor no es amor, sino apego simbiótico o egoísmo ampliada._",
+        translation_id: "💐 *Opinión:* Cuando estamos enamorados de alguien, daríamos la vida por esa persona.",
+        translation_en: "Podemos engañarnos y creer que somos buenas personas, pero hasta los más egoístas pueden perder la cabeza por alguien y parecer personas entregadas.",
     }
 ]
