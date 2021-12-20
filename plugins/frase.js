@@ -559,36 +559,36 @@ global.asmaulhusna = [
         index: 76,
         latin: "💐 *Autor:* *Mario Benedetti*",
         arabic: "💐 *Frase:* _No te rindas, porque cada día es un comienzo nuevo, porque esta es la hora y el mejor momento._",
-        translation_id: "💐 *Opinión:* Una manera de ver el ahora que además nos sirve como fuente de motivación..",
+        translation_id: "💐 *Opinión:* Una manera de ver el ahora que además nos sirve como fuente de motivación.",
         translation_en: "La paz se puede si todos están de acuerdo.",
     },
     {
         index: 77,
-        latin: "Al Waali",
-        arabic: "الْوَالِي",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Memerintah",
-        translation_en: "The Patron"
+        latin: "💐 *Autor:* *Erasmo de Rotterdam*",
+        arabic: "💐 *Frase:* _La paz más desventajosa es mejor que la guerra más justa._",
+        translation_id: "💐 *Opinión:* Una apreciación moral acerca del valor de la paz.",
+        translation_en: "En la guerra nadie gana, solo hay dolor.",
     },
     {
         index: 78,
-        latin: "Al Muta’aalii",
-        arabic: "الْمُتَعَالِي",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Tinggi",
-        translation_en: "The Self Exalted"
+        latin: "💐 *Autor:* *Baruch Spinoza*",
+        arabic: "💐 *Frase:* _Si no quieres repetir el pasado, estúdialo._",
+        translation_id: "💐 *Opinión:* La memoria nos permite aprender de nuestros errores, y eso es algo que hay que aprovechar.",
+        translation_en: "Es la mejor manera de no volver a caer.",
     },
     {
         index: 79,
-        latin: "Al Barri",
-        arabic: "الْبَرُّ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Penderma",
-        translation_en: "The Most Kind and Righteous"
+        latin: "💐 *Autor:* *Anselmo de Canterbury*",
+        arabic: "💐 *Frase:* _Los desastres nos enseñan humildad._",
+        translation_id: "💐 *Opinión:* Incluso las crisis tienen algo bueno, pues nos recuerdan nuestro escaso poder frente al mundo.",
+        translation_en: "El ser humano no puede con todo.",
     },
     {
         index: 80,
-        latin: "At Tawwaab",
-        arabic: "التَّوَابُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Penerima Tobat",
-        translation_en: "The Ever Returning, Ever Relenting"
+        latin: "💐 *Autor:* *Nelson Mandela*",
+        arabic: "💐 *Frase:* _No hay nada como volver a un lugar que permanece sin cambiar para encontrar las formas en las que tú mismo has cambiado._",
+        translation_id: "💐 *Opinión:* La interacción con el entorno nos permite conocernos mejor.",
+        translation_en: "Recordar que todo sigue igual... Es un buen sentimiento.",
     },
     {
         index: 81,
