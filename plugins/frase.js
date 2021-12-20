@@ -592,66 +592,66 @@ global.asmaulhusna = [
     },
     {
         index: 81,
-        latin: "Al Muntaqim",
-        arabic: "الْمُنْتَقِمُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Penuntut Balas",
-        translation_en: "The Avenger"
+        latin: "💐 *Autor:* *Epícuro*",
+        arabic: "💐 *Frase:* _Cuanto más grande es la dificultad, más gloria hay en superarla._",
+        translation_id: "💐 *Opinión:* El filósofo griego, fundador epicureísmo, nos deja esta gran frase motivadora para la historia.",
+        translation_en: "Saberse superar....",
     },
     {
         index: 82,
-        latin: "Al Afuww",
-        arabic: "العَفُوُّ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Pemaaf",
-        translation_en: "The Pardoner, the Effacer of Sins"
+        latin: "💐 *Autor:* *Friedrich Hegel*",
+        arabic: "💐 *Frase:* _Ser independiente de la opinión pública es la primera condición formal para lograr algo grande._",
+        translation_id: "💐 *Opinión:* Pensar nos hace ver las cosas de una manera alterna.",
+        translation_en: "Una frase que habla del pensamiento propio.",
     },
     {
         index: 83,
-        latin: "Ar Ra`uuf",
-        arabic: "الرَّؤُوفُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Pengasih",
-        translation_en: "The Compassionate, the All Pitying"
+        latin: "💐 *Autor:* *Leibniz*",
+        arabic: "💐 *Frase:* _Vivimos en el mejor de los posibles mundos._",
+        translation_id: "💐 *Opinión:* Al menos éste es el único que conocemos.",
+        translation_en: "Con sus cosas buenas y sus cosas malas.",
     },
     {
         index: 84,
-        latin: "Malikul Mulk",
-        arabic: "مَالِكُ الْمُلْكِ",
-        translation_id: "Yang Memiliki Mutlak sifatPenguasa Kerajaan (Semesta)",
-        translation_en: "The Owner of All Sovereignty"
+        latin: "💐 *Autor:* *Benjamin Franklin*",
+        arabic: "💐 *Frase:* _El que es bueno para poner excusas rara vez es bueno para cualquier otra cosa._",
+        translation_id: "💐 *Opinión:* Los cobardes ponen excusas en vez de afrontar la realidad.",
+        translation_en: "Solo sabe evadir, y no afrontar.",
     },
     {
         index: 85,
-        latin: "Dzul JalaaliWal Ikraam",
-        arabic: "ذُوالْجَلاَلِوَالإكْرَامِ",
-        translation_id: "Yang Memiliki Mutlak sifat PemilikKebesaran dan Kemuliaan",
-        translation_en: "The Lord of Majesty and Generosity"
+        latin: "💐 *Autor:* *Noam Chomsky*",
+        arabic: "💐 *Frase:* _Si no creemos en la libertad de expresión de las personas que despreciamos, no creemos en ella en absoluto._",
+        translation_id: "💐 *Opinión:* Una frase que nos recuerda la importancia de la libertad de expresión.",
+        translation_en: "La libertad es buena cuando somos libre de manera educada.",
     },
     {
         index: 86,
-        latin: "Al Muqsith",
-        arabic: "الْمُقْسِطُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Adil",
-        translation_en: "The Equitable, the Requiter"
+        latin: "💐 *Autor:* *Tales*",
+        arabic: "💐 *Frase:* _La cosa más difícil en la vida es conocerte a ti mismo._",
+        translation_id: "💐 *Opinión:* El autoconocimiento es clave para tener una vida emocional sana.",
+        translation_en: "Siempre es bueno no dejar de aprender.",
     },
     {
         index: 87,
-        latin: "Al Jamii’",
-        arabic: "الْجَامِعُ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Mengumpulkan",
-        translation_en: "The Gatherer, the Unifier"
+        latin: "💐 *Autor:* *Epíteto*",
+        arabic: "💐 *Frase:* _No es lo que te ocurre, sino cómo reaccionas lo que importa._",
+        translation_id: "💐 *Opinión:* Sobre la importancia de evaluar de forma positiva los hechos.",
+        translation_en: "Hasta lo malo puede ser bueno.",
     },
     {
         index: 88,
-        latin: "Al Ghaniyy",
-        arabic: "الْغَنِيُّ",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Berkecukupan",
-        translation_en: "The All Rich, the Independent"
+        latin: "💐 *Autor:* *Mark Twain*",
+        arabic: "💐 *Frase:* _La persona que es una maestra en la paciencia puede con todo lo demás._",
+        translation_id: "💐 *Opinión:* Una frase del personaje célebre George Savile que hablar del poder de la paciencia.",
+        translation_en: "Si te consideras una persona paciente, vales mucho como persona.",
     },
     {
         index: 89,
-        latin: "Al Mughnii",
-        arabic: "الْمُغْنِي",
-        translation_id: "Yang Memiliki Mutlak sifat Maha Memberi Kekayaan",
-        translation_en: "The Enricher, the Emancipator"
+        latin: "💐 *Autor:* *George Savile*",
+        arabic: "💐 *Frase:* _No hay una visión más triste que la de un joven pesimista._",
+        translation_id: "💐 *Opinión:* Una frase del personaje célebre George Savile que hablar del poder de la paciencia.",
+        translation_en: "Si te consideras una persona paciente, vales mucho como persona.",
     },
     {
         index: 90,
