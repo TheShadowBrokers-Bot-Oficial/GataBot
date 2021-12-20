@@ -1,1 +1,1 @@
-### Estoy en desarrollo, pronto estaré disponible 🐱
+### Estoy en desarrollo, pronto estaré disponible. 🐱
