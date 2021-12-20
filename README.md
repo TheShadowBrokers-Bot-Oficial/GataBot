@@ -1,39 +1,65 @@
-# GataBot
-<a href="https://github.com/GataNina-Li/GataBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BochilGaming/games-wabot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/BochilGaming/games-wabot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/BochilGaming/games-wabot?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/BochilGaming/games-wabot?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BochilGaming/games-wabot?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
+# ***`ㅤㅤㅤㅤㅤㅤㅤㅤㅤＧａｔａＢｏｔㅤㅤㅤㅤㅤㅤㅤㅤㅤ`***
 
-## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GVwpKf83s42D1CnIfDW19G) 
-**NO BOT**
+<p align="center">
+<img src="https://lh3.googleusercontent.com/proxy/a3h9xT-FdImjfKdvoxwOi0g0QK7P7051NcHXa4DI0GwJOxEDTID_P9mzsFLgjIfLcVyo5LrSOakDUEiW_6Vx" alt="GIF" width="500" height="281"/>
+</p>
+
+<p align="center">
+𝐁𝐲 𝐆𝐚𝐭𝐚𝐍𝐢𝐧𝐚-𝐋𝐢
+</p>
+
+<p align="center">
+!Hola¡ 😺 Bienvenido a este repositorio, Sería agradable una ⭐ de tú parte. ¡Gracias!
+</p>
 
 
-#### Deploy to Heroku
+
+#### 🟢 *Contacto 1*
+
+[![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://api.whatsapp.com/send?phone=994407312387&text=¡Hola!%20😸%20vengo%20de%20GitHub)
+
+
+#### 🟢 *Contacto 2*
+
+[![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://api.whatsapp.com/send?phone=994400643818&text=¡Hola!%20😸%20vengo%20de%20GitHub)
+
+#### 🟣 Implementar en Heroku
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GataNina-Li/GataBot)
 
 #### Heroku Buildpack
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-### FOR TERMUX USER
-```bash
-pkg update && pkg upgrade
-pkg install bash && pkg install wget
-wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot/main/install2.sh | bash
-```
+| BuildPack | ENLACE |
+|--------|--------|
+| **FFMPEG** |[Aquí](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [Aquí](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ---------
 
-## INSTALL ON TERMUX WITH UBUNTU
+## REQUISITOS
 
-[ INSTALLING UBUNTU ]
+* Tener una conexión estable de internet.
+* Tener la aplicación Termux actualizada.
+* Un número para el BOT.
+
+---------
+
+### PARA USUARIOS DE TERMUX
+
+```bash
+pkg update
+pkg upgrade
+pkg install bash 
+pkg install wget
+wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot/main/install2.sh | bash
+```
+---------
+
+## INSTALAR EN TERMUX CON UBUNTU
+
+[ INSTALANDO UBUNTU ]
 
 ```bash
 apt update && apt full-upgrade
@@ -44,7 +70,7 @@ ubuntu
 ```
 ---------
 
-[ INSTALLING REQUIRED PACKAGES ]
+[ INSTALANDO PAQUETES REQUERIDOS ]
 
 ```bash
 ubuntu
@@ -54,7 +80,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & GATABOT ]
+[ INSTALANDO NODEJS Y GATABOT ]
 
 ```bash
 ubuntu
@@ -68,12 +94,12 @@ npm update
 
 ---------
 
-## FOR WINDOWS/VPS/RDP USER
+## PARA USUARIO DE WINDOWS / VPS / RDP
 
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+* Descarga e instala Git [`Click Here`](https://git-scm.com/downloads)
+* Descargue e instale NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Descargue e instale FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**no olvide agregar FFmpeg a las variables de entorno PATH**)
+* Descargue e instale ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
 git clone https://github.com/GataNina-Li/GataBot
@@ -92,58 +118,58 @@ node .
 
 ---------
 
-## Arguments `node . [--options] [<session name>]`
+## Argumentos `node . [--options] [<session name>]`
 
 ### `--self`
 
-Activate self mode (Ignores other)
+Activar el modo automático (ignora otros).
 
 ### `--pconly`
 
-If that chat not from private bot, bot will ignore
+Si ese chat no es de un bot privado, el bot ignorará.
 
 ### `--gconly`
 
-If that chat not from group, bot will ignore
+Si ese chat no es del grupo, el bot ignorará.
 
 ### `--swonly`
 
-If that chat not from status, bot will ignore
+Si ese chat no es del estado, el bot ignorará.
 
 ### `--prefix <prefixes>`
 
-* `prefixes` are seperated by each character
-Set prefix
+* `prefixes` están separados por cada prefijo de conjunto de caracteres.
 
 ### `--server`
 
-Used for [heroku](https://heroku.com/) or scan through website
+Utilizado para [heroku](https://heroku.com/) o escanear a través del sitio web.
 
 ### `--big-qr`
 
-If small qr unicode doesn't support
+Si el pequeño qr unicode no es compatible.
+
 
 ### `--restrict`
 
-Enables restricted plugins (which can lead your number to be **banned** if used too often)
+Habilita complementos restringidos (lo que puede hacer que su número sea **prohibido** si se usa con demasiada frecuencia).
 
-* Group Administration `add, kick`
+* Administración de grupo `add, kick`
 
 ### `--img`
 
-Enable image inspector through terminal
+Habilitar el inspector de imágenes a través de la terminal.
 
 ### `--autoread`
 
-If enabled, all incoming messages will be marked as read
+Si está habilitado, todos los mensajes entrantes se marcarán como leídos.
 
 ### `--nyimak`
 
-No bot, just print received messages and add users to database
+Sin bot, solo imprima los mensajes recibidos y agregue usuarios a la base de datos.
 
 ### `--test`
 
-**Development** Testing Mode
+Modo de prueba de **desarrollo**. 
 
 ### `--trace`
 
@@ -159,39 +185,32 @@ conn.logger.level = 'debug'
 
 ### `--presence <Presence>`
 
-when the bot executes the command, the bot will type, record, etc.
+Cuando el bot ejecuta el comando, el bot escribirá, registrará, etc.
 
-Presence avaible: available, composing, recording, paused
-
----------
-
-### want to contribute?
-1. fork this repository
-2. Change/edit/create what you want. for example you can add features, fix bug, etc
-3. **test** before making a pull req!!
-4. make a pull req!
-5. if your pull req is already in **acc/merge**, you can delete your branch or you can create pull req again :)
+Presencia disponible: disponible, componiendo, grabando, en pausa
 
 ---------
 
-### want to use multi-device (md)?
-now games-wabot already support MD, but of course there are still many **bugs** and there are still many that have not been **implemented**,
 
-use this [branch](https://github.com/GataNina-Li/GataBot/tree/multi-device) if you want to use MD!
+
+### ¿Quieres contribuir?
+1. Bifurcar este repositorio
+2. Cambia / edita / crea lo que quieras. por ejemplo, puede agregar funciones, corregir errores, etc.
+3. Si su solicitud de extracción ya está en acc / merge , puede eliminar su rama o puede crear una solicitud de extracción nuevamente 😸
 
 ---------
 
-### Thanks To 
-**Allah SWT**,
+### CREADOR
 
-**Orang Tua**,
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li)
 
-**Semua yang selalu mendukung**
+## Gracias a
 
+[![TheShadowBrokers1](https://github.com/TheShadowBrokers1.png?size=100)](https://github.com/TheShadowBrokers1)
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 
-#### Contributor
+### Contribuyentes
 [![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
 [![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz)
 <a href="https://github.com/zatu22"><img src="https://github.com/zatu22.png" width="100" height="100" alt="zatu22"/></a>
