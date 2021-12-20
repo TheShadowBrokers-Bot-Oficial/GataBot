@@ -49,11 +49,11 @@
 ### PARA USUARIOS DE TERMUX
 
 ```bash
+> pkg update && pkg upgrade
 > pkg install git 
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> pkg update && pkg upgrade
 > pkg install bash && pkg install wget
 > wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBot/main/install2.sh | bash
 ```
