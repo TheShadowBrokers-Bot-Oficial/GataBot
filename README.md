@@ -1,6 +1,6 @@
 # GataBot
 
-<a href="https://github.com/GataNina-Li/GataBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBot?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/GataNina-Li/GataBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/GataNina-Li/GataBot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/GataNina-Li/GataBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/BochilGaming/games-wabot?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/GataNina-Li/GataBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/BochilGaming/games-wabot?label=Contributors&color=blue&style=flat-square"></a>
