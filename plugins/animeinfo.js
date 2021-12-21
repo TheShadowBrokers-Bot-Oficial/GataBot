@@ -1,5 +1,7 @@
 let fetch = require('node-fetch')
 let cheerio = require('cheerio')
+var jsdom = require('jsdom');
+const { JSDOM } = jsdom;
 let handler = async (m, { conn, text }) => {
   if (!text) throw `Masukkan query!`
   let res = await fetch(global.API('https://api.jikan.moe', '/v3.4/search/anime', { q: text }))
@@ -11,7 +13,6 @@ let handler = async (m, { conn, text }) => {
   if (!res2.ok) throw await res2.text()
   let html = await res2.text()
   let { document } = new JSDOM(html).window
-  requiere ("JSDOM")
   let genAnim = [...document.querySelectorAll('div[class="spaceit_pad"] > * a')].map(el => el.href).filter(href => href.startsWith('/anime/genre/'))
   let animeingfo = `✨️ *Title:* ${title}
 🎆️ *Episodes:* ${episodes}
