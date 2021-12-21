@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 let cheerio = require('cheerio')
-var jsdom = require('jsdom');
-const { JSDOM } = jsdom;
+var jsdom = require('jsdom')
+const { JSDOM } = jsdom
 let handler = async (m, { conn, text }) => {
   if (!text) throw `Masukkan query!`
   let res = await fetch(global.API('https://api.jikan.moe', '/v3.4/search/anime', { q: text }))
