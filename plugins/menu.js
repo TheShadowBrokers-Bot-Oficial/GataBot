@@ -188,7 +188,7 @@ function ucapan() {
   if (time >= 15) {
     res = "Buenas tardes 🌆"
   }
-  if (time >= 19:00) {
+  if (time >= 19) {
     res = "Buenas noches 🌃"
   }
   return res
